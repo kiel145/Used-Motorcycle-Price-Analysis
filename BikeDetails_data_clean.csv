@@ -1,0 +1,975 @@
+name,selling_price,year,seller_type,owner,km_driven,ex_showroom_price,motor_age,kategori_motor,harga_wajar,profit_margin,profit_status
+Honda Dio,45000.0,2017,Individual,1st owner,5650.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+Yamaha Fazer FI V 2.0 [2016-2018],65000.0,2015,Individual,1st owner,23000.0,89643.0,10,Lama,45000.0,20000.0,Untung
+Yamaha SZ [2013-2014],20000.0,2011,Individual,2nd owner,21000.0,72752.5,14,Lama,29000.0,-9000.0,Rugi
+Honda CB Twister,18000.0,2010,Individual,1st owner,60000.0,53857.0,15,Lama,25000.0,-7000.0,Rugi
+Honda CB Hornet 160R,78500.0,2018,Individual,1st owner,17000.0,87719.0,7,Baru,65000.0,13500.0,Untung
+Hero Honda CBZ extreme,30000.0,2010,Individual,1st owner,32000.0,72752.5,15,Lama,25000.0,5000.0,Untung
+Bajaj Discover 125,50000.0,2016,Individual,1st owner,42000.0,60122.0,9,Baru,50000.0,0.0,Netral
+Yamaha FZ16,35000.0,2015,Individual,1st owner,32000.0,78712.0,10,Lama,45000.0,-10000.0,Rugi
+Honda Navi,28000.0,2016,Individual,2nd owner,10000.0,47255.0,9,Baru,45000.0,-17000.0,Rugi
+Bajaj Avenger Street 220,80000.0,2018,Individual,1st owner,21178.0,95955.0,7,Baru,65000.0,15000.0,Untung
+Suzuki Access 125 [2007-2016],25000.0,2012,Individual,1st owner,55000.0,58314.0,13,Lama,30000.0,-5000.0,Rugi
+Hero Honda Glamour,25000.0,2006,Individual,1st owner,27000.0,72752.5,19,Lama,17600.0,7400.0,Untung
+Yamaha YZF R15 S,40000.0,2010,Individual,2nd owner,45000.0,117926.0,15,Lama,25000.0,15000.0,Untung
+Yamaha FZ25,120000.0,2018,Individual,1st owner,39000.0,132680.0,7,Baru,65000.0,55000.0,Untung
+Hero Passion Pro 110,15000.0,2008,Individual,1st owner,60000.0,72752.5,17,Lama,25000.0,-10000.0,Rugi
+Honda Navi [2016-2017],26000.0,2016,Individual,1st owner,17450.0,44389.0,9,Baru,50000.0,-24000.0,Rugi
+Honda Activa i,32000.0,2013,Individual,2nd owner,20696.0,53900.0,12,Lama,25000.0,7000.0,Untung
+Royal Enfield Thunderbird 350,110000.0,2016,Individual,1st owner,20000.0,72752.5,9,Baru,50000.0,60000.0,Untung
+Honda Dream Yuga,25000.0,2012,Individual,1st owner,35000.0,56147.0,13,Lama,30000.0,-5000.0,Rugi
+TVS Apache RTR 160 4V,80000.0,2018,Individual,1st owner,15210.0,72752.5,7,Baru,65000.0,15000.0,Untung
+Honda Navi [2016-2017],42000.0,2017,Individual,1st owner,24000.0,44389.0,8,Baru,55000.0,-13000.0,Rugi
+Yamaha Fazer [2009-2016],40000.0,2013,Individual,3rd owner,35000.0,84751.0,12,Lama,40000.0,0.0,Netral
+Hero Honda Splendor NXG,21000.0,2009,Individual,1st owner,10000.0,72752.5,16,Lama,23000.0,-2000.0,Rugi
+Hero Glamour 125,55000.0,2017,Individual,1st owner,2500.0,61600.0,8,Baru,55000.0,0.0,Netral
+Yamaha FZ S [2012-2016],38000.0,2013,Individual,1st owner,75000.0,79432.0,12,Lama,36500.0,1500.0,Untung
+Hero Xtreme Sports,43000.0,2016,Individual,2nd owner,50000.0,78350.0,9,Baru,45000.0,-2000.0,Rugi
+Honda X-Blade,65000.0,2018,Individual,1st owner,27000.0,72752.5,7,Baru,65000.0,0.0,Netral
+Honda CB Shine SP,62000.0,2019,Individual,1st owner,10000.0,71049.0,6,Baru,75000.0,-13000.0,Rugi
+Honda Activa 5G,60000.0,2018,Individual,1st owner,6502.0,57557.0,7,Baru,65000.0,-5000.0,Rugi
+Hero Glamour 125,45000.0,2018,Individual,1st owner,21000.0,61600.0,7,Baru,65000.0,-20000.0,Rugi
+Honda CBR-250R,120000.0,2016,Individual,1st owner,16000.0,202310.0,9,Baru,50000.0,70000.0,Untung
+Hero Honda Passion PRO [2012],30000.0,2011,Individual,1st owner,42000.0,72752.5,14,Lama,25000.0,5000.0,Untung
+Royal Enfield Thunderbird 350,90000.0,2015,Individual,3rd owner,13000.0,72752.5,10,Lama,90000.0,0.0,Netral
+Bajaj Dominar 400,125000.0,2017,Individual,1st owner,12800.0,72752.5,8,Baru,55000.0,70000.0,Untung
+Hero Glamour FI,50000.0,2018,Individual,1st owner,20000.0,71150.0,7,Baru,65000.0,-15000.0,Rugi
+Hero Passion XPro,28000.0,2012,Individual,1st owner,81000.0,56750.0,13,Lama,30000.0,-2000.0,Rugi
+Yamaha FZ S V 2.0,85000.0,2018,Individual,1st owner,8000.0,84042.0,7,Baru,65000.0,20000.0,Untung
+Hero Achiever 150,29900.0,2016,Individual,1st owner,55000.0,69750.0,9,Baru,50000.0,-20100.0,Rugi
+Bajaj Discover 125,25000.0,2011,Individual,1st owner,57000.0,60122.0,14,Lama,25000.0,0.0,Netral
+Yamaha FZ16,30000.0,2009,Individual,2nd owner,26000.0,78712.0,16,Lama,20000.0,10000.0,Untung
+Yamaha Saluto,60000.0,2018,Individual,1st owner,13000.0,59844.0,7,Baru,65000.0,-5000.0,Rugi
+Yamaha FZ16,35000.0,2012,Individual,2nd owner,29000.0,78712.0,13,Lama,26000.0,9000.0,Untung
+Bajaj Discover 100,25000.0,2010,Individual,1st owner,43000.0,42859.0,15,Lama,25000.0,0.0,Netral
+Honda CB Trigger,30000.0,2015,Individual,1st owner,40000.0,73413.0,10,Lama,45000.0,-15000.0,Rugi
+Royal Enfield Electra 5 S,90000.0,2010,Individual,2nd owner,40000.0,72752.5,15,Lama,25000.0,65000.0,Untung
+Hero Splendor PRO,35000.0,2015,Individual,2nd owner,24000.0,49900.0,10,Lama,30000.0,5000.0,Untung
+Honda Activa 5G,70000.0,2019,Individual,1st owner,3000.0,59422.0,6,Baru,75000.0,-5000.0,Rugi
+Hero Honda Passion Plus,25000.0,2006,Individual,1st owner,75000.0,72752.5,19,Lama,17600.0,7400.0,Untung
+Bajaj Pulsar 150,25000.0,2010,Individual,1st owner,42000.0,72752.5,15,Lama,25000.0,0.0,Netral
+Royal Enfield Bullet 350,90000.0,2014,Individual,1st owner,13000.0,72752.5,11,Lama,40000.0,50000.0,Untung
+Bajaj Discover 125,25000.0,2013,Individual,1st owner,55000.0,57549.0,12,Lama,36500.0,-11500.0,Rugi
+Bajaj Pulsar 150 [2001-2011],42000.0,2011,Individual,1st owner,23000.0,72752.5,14,Lama,25000.0,17000.0,Untung
+Hero Splendor PRO,35000.0,2015,Individual,2nd owner,24000.0,51994.0,10,Lama,30000.0,5000.0,Untung
+Hero Xtreme Sports,50000.0,2014,Individual,1st owner,80000.0,80350.0,11,Lama,40000.0,10000.0,Untung
+Honda Activa 3G,30000.0,2015,Individual,1st owner,39000.0,54605.0,10,Lama,45000.0,-15000.0,Rugi
+Yamaha FZ16,48000.0,2016,Individual,1st owner,20000.0,78712.0,9,Baru,50000.0,-2000.0,Rugi
+Honda CB Hornet 160R,65000.0,2016,Individual,1st owner,30000.0,88161.0,9,Baru,50000.0,15000.0,Untung
+Royal Enfield Thunderbird 350,85000.0,2013,Individual,1st owner,21000.0,72752.5,12,Lama,36500.0,48500.0,Untung
+Hero Hunk,45000.0,2014,Individual,1st owner,41000.0,78513.0,11,Lama,40000.0,5000.0,Untung
+Suzuki Let''s,34000.0,2014,Individual,1st owner,8000.0,50098.0,11,Lama,40000.0,-6000.0,Rugi
+Royal Enfield Electra 4 S,90000.0,2008,Individual,1st owner,50000.0,72752.5,17,Lama,25000.0,65000.0,Untung
+TVS Scooty Pep Plus,35000.0,2012,Individual,1st owner,8150.0,72752.5,13,Lama,30000.0,5000.0,Untung
+TVS Apache RTR 160,35000.0,2013,Individual,1st owner,55750.0,72752.5,12,Lama,36500.0,-1500.0,Rugi
+Bajaj Pulsar AS200,65000.0,2015,Individual,1st owner,15856.0,92074.0,10,Lama,45000.0,20000.0,Untung
+Bajaj Pulsar 150,29500.0,2013,Individual,1st owner,27000.0,72752.5,12,Lama,36500.0,-7000.0,Rugi
+Suzuki Intruder 150,95000.0,2018,Individual,1st owner,21938.0,72752.5,7,Baru,65000.0,30000.0,Untung
+Hero Honda Karizma ZMR [2010],50000.0,2010,Individual,1st owner,48000.0,72752.5,15,Lama,25000.0,25000.0,Untung
+Honda Dio,7500.0,2009,Individual,2nd owner,16000.0,72752.5,16,Lama,20000.0,-12500.0,Rugi
+Bajaj Xcd,25000.0,2008,Individual,1st owner,54000.0,72752.5,17,Lama,25000.0,0.0,Netral
+Hero Splendor Plus,35000.0,2014,Individual,2nd owner,35000.0,72752.5,11,Lama,35000.0,0.0,Netral
+Honda CB Unicorn 150,50000.0,2014,Individual,1st owner,32000.0,74295.0,11,Lama,40000.0,10000.0,Untung
+Honda Activa 5G,62000.0,2019,Individual,1st owner,3500.0,57557.0,6,Baru,75000.0,-13000.0,Rugi
+Honda CB Twister,30000.0,2013,Individual,1st owner,9000.0,53857.0,12,Lama,36500.0,-6500.0,Rugi
+Hero Splendor PRO,28000.0,2015,Individual,1st owner,38000.0,49642.0,10,Lama,45000.0,-17000.0,Rugi
+Hero Honda CD Deluxe,25000.0,2009,Individual,1st owner,50000.0,72752.5,16,Lama,23000.0,2000.0,Untung
+Honda Activa i [2016-2017],30000.0,2015,Individual,2nd owner,20000.0,51112.0,10,Lama,30000.0,0.0,Netral
+TVS Scooty Zest 110,30000.0,2017,Individual,1st owner,9432.0,53751.0,8,Baru,55000.0,-25000.0,Rugi
+Hero CD Deluxe,25000.0,2014,Individual,1st owner,70000.0,72752.5,11,Lama,40000.0,-15000.0,Rugi
+Suzuki Access 125 [2007-2016],22000.0,2010,Individual,2nd owner,43000.0,58314.0,15,Lama,25000.0,-3000.0,Rugi
+Honda Activa [2000-2015],22989.0,2012,Individual,1st owner,500000.0,50267.0,13,Lama,30000.0,-7011.0,Rugi
+Honda Activa 125 [2016-2017],42000.0,2016,Individual,1st owner,30514.0,61653.0,9,Baru,50000.0,-8000.0,Rugi
+Suzuki GS150R,30000.0,2010,Individual,1st owner,130000.0,70851.0,15,Lama,25000.0,5000.0,Untung
+Bajaj Pulsar 220S,55000.0,2015,Individual,1st owner,45000.0,72752.5,10,Lama,45000.0,10000.0,Untung
+Honda Activa 4G,45000.0,2018,Individual,1st owner,25000.0,53079.0,7,Baru,65000.0,-20000.0,Rugi
+Bajaj Pulsar 150,42000.0,2015,Individual,1st owner,22770.0,72752.5,10,Lama,45000.0,-3000.0,Rugi
+Hero Splendor Plus,30000.0,2015,Individual,1st owner,30000.0,72752.5,10,Lama,45000.0,-15000.0,Rugi
+Bajaj Discover 100,24999.0,2012,Individual,2nd owner,35000.0,42859.0,13,Lama,26000.0,-1001.0,Rugi
+Bajaj Pulsar 150,40000.0,2013,Individual,1st owner,43400.0,72752.5,12,Lama,36500.0,3500.0,Untung
+Bajaj Pulsar NS160,85000.0,2018,Individual,1st owner,7004.0,72752.5,7,Baru,65000.0,20000.0,Untung
+Suzuki Gixxer SF,80000.0,2018,Individual,1st owner,12500.0,72752.5,7,Baru,65000.0,15000.0,Untung
+TVS Apache RTR 200 4V,95000.0,2018,Individual,1st owner,9600.0,72752.5,7,Baru,65000.0,30000.0,Untung
+Bajaj V15,42000.0,2016,Individual,1st owner,35000.0,65626.0,9,Baru,50000.0,-8000.0,Rugi
+TVS XL 100 Heavy Duty,40000.0,2019,Individual,1st owner,11000.0,72752.5,6,Baru,75000.0,-35000.0,Rugi
+Yamaha FZ S V 2.0,50000.0,2015,Individual,1st owner,20000.0,84042.0,10,Lama,45000.0,5000.0,Untung
+Hero HF Deluxe,40000.0,2018,Individual,1st owner,13000.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+Aprilia SR 125,75000.0,2019,Individual,1st owner,3500.0,72752.5,6,Baru,75000.0,0.0,Netral
+Yamaha FZ25,120000.0,2017,Individual,1st owner,9000.0,132680.0,8,Baru,55000.0,65000.0,Untung
+Hero Honda Glamour,30000.0,2008,Individual,1st owner,7500.0,72752.5,17,Lama,25000.0,5000.0,Untung
+Bajaj Discover 125 ST,17500.0,2013,Individual,1st owner,38000.0,58438.0,12,Lama,36500.0,-19000.0,Rugi
+Hero Honda Passion Plus,7500.0,2004,Individual,1st owner,120000.0,72752.5,21,Lama,15000.0,-7500.0,Rugi
+Honda Aviator,57000.0,2018,Individual,1st owner,6465.0,61118.0,7,Baru,65000.0,-8000.0,Rugi
+Vespa SXL 149,80000.0,2018,Individual,1st owner,18803.0,72752.5,7,Baru,65000.0,15000.0,Untung
+TVS Scooty Pep Plus,18000.0,2010,Individual,1st owner,20000.0,72752.5,15,Lama,25000.0,-7000.0,Rugi
+Hero Xtreme [2013-2014],25000.0,2013,Individual,1st owner,24000.0,75936.0,12,Lama,36500.0,-11500.0,Rugi
+Royal Enfield Thunderbird 350,83900.0,2014,Individual,2nd owner,22000.0,72752.5,11,Lama,35000.0,48900.0,Untung
+Honda CB Hornet 160R,55000.0,2017,Individual,1st owner,14000.0,87543.0,8,Baru,55000.0,0.0,Netral
+Honda Shine,50000.0,2017,Individual,1st owner,23000.0,72752.5,8,Baru,55000.0,-5000.0,Rugi
+Bajaj Discover 100,20000.0,2012,Individual,1st owner,85000.0,42859.0,13,Lama,30000.0,-10000.0,Rugi
+Hero Honda CBZ extreme,25000.0,2010,Individual,1st owner,40000.0,72752.5,15,Lama,25000.0,0.0,Netral
+Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,18000.0,72752.5,8,Baru,55000.0,70000.0,Untung
+Honda Activa 5G,55000.0,2019,Individual,1st owner,10000.0,57557.0,6,Baru,75000.0,-20000.0,Rugi
+Bajaj Avenger Street 150 [2018],50000.0,2016,Individual,1st owner,40000.0,80435.0,9,Baru,50000.0,0.0,Netral
+Honda Activa 3G,60000.0,2015,Individual,1st owner,30000.0,54605.0,10,Lama,45000.0,15000.0,Untung
+Honda Activa 3G,40000.0,2015,Individual,1st owner,3000.0,54605.0,10,Lama,45000.0,-5000.0,Rugi
+Bajaj Pulsar 180,15000.0,2008,Individual,1st owner,55000.0,85011.0,17,Lama,25000.0,-10000.0,Rugi
+Hero Honda CBZ extreme,20000.0,2007,Individual,1st owner,90000.0,72752.5,18,Lama,20000.0,0.0,Netral
+KTM 390 Duke ABS [2013-2016],130000.0,2015,Individual,1st owner,50000.0,202127.0,10,Lama,45000.0,85000.0,Untung
+Honda CB Hornet 160R,54786.0,2016,Individual,1st owner,25000.0,88161.0,9,Baru,50000.0,4786.0,Untung
+KTM 200 Duke,72000.0,2013,Individual,1st owner,36500.0,72752.5,12,Lama,36500.0,35500.0,Untung
+Hero Karizma 2014,35000.0,2013,Individual,1st owner,26000.0,86744.0,12,Lama,36500.0,-1500.0,Rugi
+Hero Glamour 125,45000.0,2017,Individual,1st owner,18000.0,61600.0,8,Baru,55000.0,-10000.0,Rugi
+Royal Enfield Classic 350,85000.0,2013,Individual,1st owner,49000.0,72752.5,12,Lama,36500.0,48500.0,Untung
+Royal Enfield Classic 500,100000.0,2013,Individual,1st owner,18000.0,156304.0,12,Lama,36500.0,63500.0,Untung
+Royal Enfield Thunderbird 350,100000.0,2015,Individual,1st owner,14500.0,72752.5,10,Lama,45000.0,55000.0,Untung
+Hero Hunk,20000.0,2010,Individual,1st owner,35000.0,78513.0,15,Lama,25000.0,-5000.0,Rugi
+Suzuki Gixxer [2014-2018],60000.0,2016,Individual,1st owner,16000.0,84246.0,9,Baru,50000.0,10000.0,Untung
+Royal Enfield Bullet 350,123000.0,2016,Individual,1st owner,7000.0,72752.5,9,Baru,50000.0,73000.0,Untung
+Suzuki Access 125,60000.0,2017,Individual,1st owner,4000.0,72752.5,8,Baru,55000.0,5000.0,Untung
+TVS Apache RTR 200 4V,100000.0,2017,Individual,1st owner,45000.0,72752.5,8,Baru,55000.0,45000.0,Untung
+Hero Xtreme Sports,22000.0,2014,Individual,1st owner,99000.0,78350.0,11,Lama,40000.0,-18000.0,Rugi
+Honda Activa [2000-2015],30000.0,2014,Individual,1st owner,52000.0,50267.0,11,Lama,40000.0,-10000.0,Rugi
+Bajaj Discover 125,28000.0,2013,Individual,1st owner,45000.0,60122.0,12,Lama,36500.0,-8500.0,Rugi
+Bajaj Pulsar 150,50000.0,2007,Individual,1st owner,52000.0,72752.5,18,Lama,20000.0,30000.0,Untung
+Yamaha Saluto RX,40000.0,2017,Individual,1st owner,27000.0,49521.0,8,Baru,55000.0,-15000.0,Rugi
+Hero HF Deluxe,43000.0,2018,Individual,1st owner,60000.0,72752.5,7,Baru,65000.0,-22000.0,Rugi
+Suzuki Access 125,40000.0,2015,Individual,1st owner,2300.0,72752.5,10,Lama,45000.0,-5000.0,Rugi
+Royal Enfield Classic Desert Storm,100000.0,2012,Individual,1st owner,15000.0,181445.0,13,Lama,30000.0,70000.0,Untung
+Hero HF Deluxe,30000.0,2016,Individual,1st owner,50000.0,72752.5,9,Baru,50000.0,-20000.0,Rugi
+KTM RC 200,130000.0,2017,Individual,1st owner,27000.0,72752.5,8,Baru,55000.0,75000.0,Untung
+Honda CB Hornet 160R,48000.0,2016,Individual,2nd owner,25000.0,88161.0,9,Baru,45000.0,3000.0,Untung
+Bajaj CT 100,32000.0,2017,Individual,1st owner,40000.0,72752.5,8,Baru,55000.0,-23000.0,Rugi
+Hero Honda Pleasure,23000.0,2010,Individual,1st owner,32000.0,72752.5,15,Lama,25000.0,-2000.0,Rugi
+Bajaj Pulsar 135 LS,20000.0,2010,Individual,2nd owner,50000.0,64589.0,15,Lama,25000.0,-5000.0,Rugi
+Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,36000.0,72752.5,8,Baru,55000.0,70000.0,Untung
+Honda Navi [2016-2017],23000.0,2016,Individual,1st owner,17450.0,44389.0,9,Baru,50000.0,-27000.0,Rugi
+Bajaj Discover 125,15000.0,2011,Individual,1st owner,32000.0,57549.0,14,Lama,25000.0,-10000.0,Rugi
+Yamaha SZ RR V 2.0,35000.0,2015,Individual,1st owner,38000.0,69983.0,10,Lama,45000.0,-10000.0,Rugi
+Bajaj Discover 150,25000.0,2014,Individual,2nd owner,71000.0,54299.0,11,Lama,35000.0,-10000.0,Rugi
+Bajaj Pulsar 150,80000.0,2019,Individual,1st owner,8000.0,72752.5,6,Baru,75000.0,5000.0,Untung
+TVS Flame,15000.0,2010,Individual,1st owner,12000.0,72752.5,15,Lama,25000.0,-10000.0,Rugi
+Vespa VX 125,45000.0,2013,Individual,2nd owner,50000.0,72303.0,12,Lama,25000.0,20000.0,Untung
+Yamaha SZ X,25000.0,2012,Individual,2nd owner,30000.0,65800.0,13,Lama,26000.0,-1000.0,Rugi
+Honda CBF Stunner,35000.0,2013,Individual,1st owner,15888.0,58757.0,12,Lama,36500.0,-1500.0,Rugi
+Bajaj Discover 100 T,25000.0,2013,Individual,1st owner,26000.0,47032.0,12,Lama,36500.0,-11500.0,Rugi
+Honda Activa [2000-2015],25000.0,2014,Individual,1st owner,41000.0,50267.0,11,Lama,40000.0,-15000.0,Rugi
+Royal Enfield Electra 5 S,60000.0,2007,Individual,2nd owner,19612.0,72752.5,18,Lama,18000.0,42000.0,Untung
+Bajaj Pulsar 150,41000.0,2012,Individual,1st owner,17000.0,72752.5,13,Lama,30000.0,11000.0,Untung
+Honda Shine,35000.0,2012,Individual,1st owner,33700.0,72752.5,13,Lama,30000.0,5000.0,Untung
+Honda CB Unicorn 160,75000.0,2015,Individual,1st owner,100000.0,79233.0,10,Lama,45000.0,30000.0,Untung
+Honda Activa 3G,47999.0,2016,Individual,1st owner,6000.0,54605.0,9,Baru,50000.0,-2001.0,Rugi
+Honda Shine,36999.0,2011,Individual,1st owner,21000.0,72752.5,14,Lama,25000.0,11999.0,Untung
+Bajaj Pulsar 180,25000.0,2007,Individual,1st owner,80000.0,85011.0,18,Lama,20000.0,5000.0,Untung
+Suzuki Gixxer SF,60000.0,2016,Individual,1st owner,15000.0,72752.5,9,Baru,50000.0,10000.0,Untung
+Honda CB Unicorn 150,50000.0,2007,Individual,1st owner,46000.0,74295.0,18,Lama,20000.0,30000.0,Untung
+Yamaha YZF R15 [2011-2018],65000.0,2013,Individual,1st owner,11000.0,118997.0,12,Lama,36500.0,28500.0,Untung
+TVS Sport,12000.0,2007,Individual,1st owner,72000.0,72752.5,18,Lama,20000.0,-8000.0,Rugi
+Bajaj Pulsar AS200,60000.0,2015,Individual,1st owner,50000.0,92074.0,10,Lama,45000.0,15000.0,Untung
+Honda Activa [2000-2015],20000.0,2010,Individual,1st owner,50000.0,50267.0,15,Lama,25000.0,-5000.0,Rugi
+Yamaha FZ16,27000.0,2011,Individual,1st owner,67000.0,78712.0,14,Lama,25000.0,2000.0,Untung
+Bajaj Boxer,10000.0,2000,Individual,1st owner,30000.0,72752.5,25,Lama,10000.0,0.0,Netral
+Hero Honda Hunk,56000.0,2015,Individual,1st owner,48000.0,72752.5,10,Lama,45000.0,11000.0,Untung
+Hero Honda Hunk,58000.0,2015,Individual,1st owner,48000.0,72752.5,10,Lama,45000.0,13000.0,Untung
+Bajaj Avenger Cruise 220,87000.0,2018,Individual,1st owner,8000.0,72752.5,7,Baru,65000.0,22000.0,Untung
+Yamaha Ray Z,35000.0,2015,Individual,1st owner,15500.0,52949.0,10,Lama,45000.0,-10000.0,Rugi
+Bajaj Pulsar 180,35000.0,2012,Individual,1st owner,45000.0,85011.0,13,Lama,30000.0,5000.0,Untung
+Bajaj Discover 150F,40000.0,2014,Individual,2nd owner,60855.0,64071.0,11,Lama,35000.0,5000.0,Untung
+Bajaj Pulsar 135 LS,56000.0,2017,Individual,3rd owner,37714.0,64589.0,8,Baru,56000.0,0.0,Netral
+Bajaj Pulsar 180,30000.0,2008,Individual,2nd owner,60000.0,85011.0,17,Lama,27500.0,2500.0,Untung
+Honda Activa 125 [2016-2017],40000.0,2017,Individual,1st owner,26000.0,61545.0,8,Baru,55000.0,-15000.0,Rugi
+Hero HF Deluxe,60000.0,2019,Individual,1st owner,6000.0,72752.5,6,Baru,75000.0,-15000.0,Rugi
+Hero Karizma 2014,40000.0,2013,Individual,1st owner,30000.0,86744.0,12,Lama,36500.0,3500.0,Untung
+Bajaj Platina 100,40000.0,2018,Individual,1st owner,17000.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+Royal Enfield Bullet 500,130000.0,2015,Individual,1st owner,34601.0,168482.0,10,Lama,45000.0,85000.0,Untung
+Bajaj Pulsar AS200,45000.0,2015,Individual,1st owner,48000.0,92074.0,10,Lama,45000.0,0.0,Netral
+Yamaha FZ S [2012-2016],42000.0,2013,Individual,1st owner,60000.0,79432.0,12,Lama,36500.0,5500.0,Untung
+Bajaj Pulsar 220 Fi,25000.0,2012,Individual,1st owner,44000.0,72752.5,13,Lama,30000.0,-5000.0,Rugi
+Bajaj Pulsar 150,15000.0,2006,Individual,1st owner,55000.0,72752.5,19,Lama,17600.0,-2600.0,Rugi
+Hero Passion X Pro [2016-2017],38000.0,2016,Individual,2nd owner,20000.0,59095.0,9,Baru,45000.0,-7000.0,Rugi
+Yamaha FZ S V 2.0,60000.0,2015,Individual,2nd owner,17500.0,84042.0,10,Lama,30000.0,30000.0,Untung
+TVS Apache RTR 160,65000.0,2017,Individual,1st owner,46000.0,72752.5,8,Baru,55000.0,10000.0,Untung
+Bajaj Avenger [2015],35000.0,2011,Individual,1st owner,30000.0,75502.0,14,Lama,25000.0,10000.0,Untung
+Bajaj Pulsar 150,70000.0,2019,Individual,1st owner,6500.0,72752.5,6,Baru,75000.0,-5000.0,Rugi
+Hero Honda Glamour,15000.0,2006,Individual,1st owner,80000.0,72752.5,19,Lama,17600.0,-2600.0,Rugi
+Hero Splendor iSmart,50000.0,2017,Individual,2nd owner,10000.0,52271.0,8,Baru,55500.0,-5500.0,Rugi
+Yamaha FZ16,25000.0,2008,Individual,1st owner,40000.0,78712.0,17,Lama,25000.0,0.0,Netral
+Hero Xtreme Sports,58000.0,2016,Individual,1st owner,21000.0,80350.0,9,Baru,50000.0,8000.0,Untung
+Royal Enfield Bullet 350 [2007-2011],90000.0,2007,Individual,1st owner,3500.0,72752.5,18,Lama,20000.0,70000.0,Untung
+Hero Honda Passion,9000.0,2002,Individual,2nd owner,66191.0,72752.5,23,Lama,17500.0,-8500.0,Rugi
+Bajaj Discover 150S,40000.0,2014,Individual,1st owner,50000.0,63331.0,11,Lama,40000.0,0.0,Netral
+TVS Scooty Zest 110,28000.0,2015,Individual,1st owner,32800.0,52372.0,10,Lama,45000.0,-17000.0,Rugi
+Bajaj Avenger Street 150 [2018],50000.0,2016,Individual,1st owner,32000.0,80435.0,9,Baru,50000.0,0.0,Netral
+Yamaha Cygnus Ray ZR,56000.0,2019,Individual,1st owner,3900.0,58630.0,6,Baru,75000.0,-19000.0,Rugi
+Honda Activa [2000-2015],35000.0,2014,Individual,1st owner,10000.0,50267.0,11,Lama,40000.0,-5000.0,Rugi
+TVS Apache RTR 200 4V,95000.0,2018,Individual,1st owner,9600.0,72752.5,7,Baru,65000.0,30000.0,Untung
+Honda Shine,30000.0,2010,Individual,1st owner,46782.0,72752.5,15,Lama,25000.0,5000.0,Untung
+Honda CB Hornet 160R,95000.0,2019,Individual,1st owner,8000.0,94703.0,6,Baru,75000.0,20000.0,Untung
+Honda Activa i [2016-2017],40000.0,2017,Individual,1st owner,11000.0,53436.0,8,Baru,55000.0,-15000.0,Rugi
+Hero Karizma 2014,30000.0,2014,Individual,2nd owner,51000.0,86744.0,11,Lama,35000.0,-5000.0,Rugi
+Bajaj Discover 100 T,18000.0,2013,Individual,1st owner,45000.0,47032.0,12,Lama,36500.0,-18500.0,Rugi
+Honda Aviator,14000.0,2008,Individual,1st owner,66000.0,59183.0,17,Lama,25000.0,-11000.0,Rugi
+Hero Splendor Plus,17000.0,2010,Individual,2nd owner,50000.0,72752.5,15,Lama,25000.0,-8000.0,Rugi
+Royal Enfield Thunderbird 350,125000.0,2017,Individual,1st owner,23500.0,72752.5,8,Baru,55000.0,70000.0,Untung
+Bajaj CT 110,20000.0,2015,Individual,1st owner,25000.0,72752.5,10,Lama,45000.0,-25000.0,Rugi
+Hero Passion PRO i3s,50000.0,2017,Individual,1st owner,41000.0,56925.0,8,Baru,55000.0,-5000.0,Rugi
+Bajaj Pulsar 220F,70000.0,2018,Individual,1st owner,33000.0,72752.5,7,Baru,65000.0,5000.0,Untung
+Hero Maestro Edge,40000.0,2017,Individual,1st owner,15000.0,55980.0,8,Baru,55000.0,-15000.0,Rugi
+Bajaj Xcd,10000.0,2008,Individual,1st owner,50000.0,72752.5,17,Lama,25000.0,-15000.0,Rugi
+Bajaj Pulsar 150,35000.0,2010,Individual,1st owner,40000.0,72752.5,15,Lama,25000.0,10000.0,Untung
+TVS Centra,10000.0,2005,Individual,1st owner,50000.0,72752.5,20,Lama,15000.0,-5000.0,Rugi
+Honda Activa 3G,42000.0,2015,Individual,1st owner,20000.0,54605.0,10,Lama,45000.0,-3000.0,Rugi
+Yamaha FZ16,20000.0,2009,Individual,1st owner,50000.0,78712.0,16,Lama,23000.0,-3000.0,Rugi
+Hero Maestro Edge,25000.0,2017,Individual,1st owner,55000.0,52790.0,8,Baru,55000.0,-30000.0,Rugi
+Bajaj Discover 125,25000.0,2016,Individual,1st owner,70350.0,60122.0,9,Baru,50000.0,-25000.0,Rugi
+Hero Super Splendor,50000.0,2016,Individual,1st owner,20000.0,72752.5,9,Baru,50000.0,0.0,Netral
+TVS Scooty Pep Plus,30000.0,2011,Individual,1st owner,20000.0,72752.5,14,Lama,25000.0,5000.0,Untung
+Yamaha FZ V 2.0,60000.0,2014,Individual,1st owner,41311.0,81508.0,11,Lama,40000.0,20000.0,Untung
+Hero Honda Splendor Plus,15000.0,2005,Individual,1st owner,65000.0,72752.5,20,Lama,15000.0,0.0,Netral
+Hero CD Deluxe,15000.0,2014,Individual,2nd owner,34000.0,72752.5,11,Lama,35000.0,-20000.0,Rugi
+Hero Honda Passion PRO [2012],25000.0,2011,Individual,1st owner,20000.0,72752.5,14,Lama,25000.0,0.0,Netral
+Hero HF Deluxe i3s,54000.0,2019,Individual,1st owner,11000.0,72752.5,6,Baru,75000.0,-21000.0,Rugi
+Bajaj Xcd,25000.0,2007,Individual,1st owner,75000.0,72752.5,18,Lama,20000.0,5000.0,Untung
+Honda CBR-250R,100000.0,2014,Individual,1st owner,19000.0,199275.0,11,Lama,40000.0,60000.0,Untung
+Bajaj Kristal,15000.0,2007,Individual,1st owner,30000.0,72752.5,18,Lama,20000.0,-5000.0,Rugi
+Hero Honda Splendor Plus,20000.0,2006,Individual,1st owner,23000.0,72752.5,19,Lama,17600.0,2400.0,Untung
+Honda Dream Yuga,35000.0,2014,Individual,1st owner,10000.0,56147.0,11,Lama,40000.0,-5000.0,Rugi
+Yamaha FZ S V 2.0,50000.0,2016,Individual,1st owner,40000.0,87042.0,9,Baru,50000.0,0.0,Netral
+Hero Xpulse 200,90000.0,2019,Individual,1st owner,8600.0,107500.0,6,Baru,75000.0,15000.0,Untung
+Bajaj V15,40000.0,2016,Individual,1st owner,45000.0,67187.0,9,Baru,50000.0,-10000.0,Rugi
+Bajaj Avenger Street 220,80000.0,2016,Individual,1st owner,7200.0,95955.0,9,Baru,50000.0,30000.0,Untung
+Bajaj Discover 135,20000.0,2010,Individual,1st owner,31195.0,72752.5,15,Lama,25000.0,-5000.0,Rugi
+Honda CB Unicorn 150,70000.0,2017,Individual,1st owner,18000.0,74295.0,8,Baru,55000.0,15000.0,Untung
+Vespa SXL 149,98000.0,2019,Individual,1st owner,1000.0,72752.5,6,Baru,75000.0,23000.0,Untung
+Royal Enfield Machismo,75000.0,2008,Individual,2nd owner,17000.0,72752.5,17,Lama,27500.0,47500.0,Untung
+Honda CB Shine SP,50000.0,2016,Individual,1st owner,46000.0,67214.0,9,Baru,50000.0,0.0,Netral
+Honda CB Unicorn 150,40000.0,2014,Individual,1st owner,77592.0,74295.0,11,Lama,40000.0,0.0,Netral
+Honda CB Unicorn 150,75000.0,2013,Individual,1st owner,54000.0,74295.0,12,Lama,36500.0,38500.0,Untung
+Honda CB Unicorn 150,50000.0,2013,Individual,1st owner,17000.0,74295.0,12,Lama,36500.0,13500.0,Untung
+Bajaj Pulsar 150,60000.0,2014,Individual,1st owner,60000.0,72752.5,11,Lama,40000.0,20000.0,Untung
+TVS Apache RTR 160,50000.0,2016,Individual,1st owner,40000.0,72752.5,9,Baru,50000.0,0.0,Netral
+Honda Dio,35000.0,2014,Individual,1st owner,25000.0,72752.5,11,Lama,40000.0,-5000.0,Rugi
+Hero Maestro,25000.0,2015,Individual,2nd owner,40000.0,49412.0,10,Lama,30000.0,-5000.0,Rugi
+Hero Honda CBZ extreme,42000.0,2010,Individual,1st owner,51000.0,72752.5,15,Lama,25000.0,17000.0,Untung
+Honda Activa 125,40000.0,2014,Individual,1st owner,14965.0,72752.5,11,Lama,40000.0,0.0,Netral
+Royal Enfield Classic Desert Storm,130000.0,2015,Individual,2nd owner,25000.0,181445.0,10,Lama,30000.0,100000.0,Untung
+TVS Apache RTR 200 4V,85000.0,2018,Individual,1st owner,10000.0,72752.5,7,Baru,65000.0,20000.0,Untung
+Kawasaki Ninja 250R,125000.0,2010,Individual,2nd owner,21000.0,317934.0,15,Lama,25000.0,100000.0,Untung
+TVS Wego,45000.0,2018,Individual,1st owner,10000.0,54760.0,7,Baru,65000.0,-20000.0,Rugi
+Honda CBR-250R,85000.0,2014,Individual,2nd owner,18600.0,171646.0,11,Lama,35000.0,50000.0,Untung
+Bajaj Pulsar NS200,85000.0,2018,Individual,1st owner,7750.0,72752.5,7,Baru,65000.0,20000.0,Untung
+Royal Enfield Thunderbird 350,100000.0,2015,Individual,1st owner,30000.0,72752.5,10,Lama,45000.0,55000.0,Untung
+Royal Enfield Classic 350,95000.0,2015,Individual,1st owner,9800.0,72752.5,10,Lama,45000.0,50000.0,Untung
+Honda CB Shine SP,48000.0,2015,Individual,1st owner,25000.0,67469.0,10,Lama,45000.0,3000.0,Untung
+Bajaj Avenger Street 150 [2018],40000.0,2016,Individual,1st owner,29689.0,80435.0,9,Baru,50000.0,-10000.0,Rugi
+Honda CBF Stunner,37000.0,2014,Individual,1st owner,43000.0,58757.0,11,Lama,40000.0,-3000.0,Rugi
+Bajaj Avenger [2015],38000.0,2014,Individual,2nd owner,28243.0,75502.0,11,Lama,35000.0,3000.0,Untung
+Suzuki Gixxer [2014-2018],55000.0,2015,Individual,1st owner,25000.0,78316.0,10,Lama,45000.0,10000.0,Untung
+Suzuki Access 125,45000.0,2017,Individual,1st owner,22300.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+TVS Scooty Streak,18000.0,2009,Individual,2nd owner,33595.0,44140.0,16,Lama,20000.0,-2000.0,Rugi
+Yamaha Rx,70000.0,2000,Individual,3rd owner,5000.0,72752.5,25,Lama,70000.0,0.0,Netral
+Hero Honda Splendor Plus,15000.0,2007,Individual,1st owner,30000.0,72752.5,18,Lama,20000.0,-5000.0,Rugi
+Bajaj Pulsar 125,65000.0,2019,Individual,1st owner,16000.0,72752.5,6,Baru,75000.0,-10000.0,Rugi
+Honda Activa 5G,42000.0,2018,Individual,1st owner,22000.0,57557.0,7,Baru,65000.0,-23000.0,Rugi
+Yamaha Fazer Dlx,58000.0,2012,Individual,1st owner,40000.0,72752.5,13,Lama,30000.0,28000.0,Untung
+Hero Xtreme 2014,35000.0,2013,Individual,1st owner,15000.0,72973.0,12,Lama,36500.0,-1500.0,Rugi
+Hero Honda Hunk,28000.0,2009,Individual,1st owner,40000.0,72752.5,16,Lama,23000.0,5000.0,Untung
+Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,33900.0,72752.5,8,Baru,55000.0,70000.0,Untung
+Bajaj Pulsar 150 [2001-2011],15000.0,2005,Individual,1st owner,47670.0,72752.5,20,Lama,15000.0,0.0,Netral
+Honda Activa [2000-2015],29500.0,2013,Individual,1st owner,45000.0,50267.0,12,Lama,36500.0,-7000.0,Rugi
+Hero Honda Splendor PRO,30000.0,2012,Individual,1st owner,22866.0,72752.5,13,Lama,30000.0,0.0,Netral
+Yamaha FZ25,110000.0,2019,Individual,1st owner,10000.0,133680.0,6,Baru,75000.0,35000.0,Untung
+Bajaj Pulsar 220F,70000.0,2016,Individual,1st owner,31000.0,72752.5,9,Baru,50000.0,20000.0,Untung
+Yamaha Fascino 110,69000.0,2019,Individual,1st owner,1600.0,57112.0,6,Baru,75000.0,-6000.0,Rugi
+Yamaha FZ16,30000.0,2011,Individual,1st owner,44000.0,78712.0,14,Lama,25000.0,5000.0,Untung
+Yamaha FZ16,30000.0,2010,Individual,1st owner,70000.0,78712.0,15,Lama,25000.0,5000.0,Untung
+TVS Star City Plus,42000.0,2017,Individual,1st owner,21000.0,72752.5,8,Baru,55000.0,-13000.0,Rugi
+Bajaj Pulsar 135 LS,20000.0,2010,Individual,1st owner,80000.0,64589.0,15,Lama,25000.0,-5000.0,Rugi
+Suzuki Access 125,45000.0,2017,Individual,1st owner,15000.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+Bajaj Pulsar 135 LS,23000.0,2010,Individual,1st owner,77000.0,64589.0,15,Lama,25000.0,-2000.0,Rugi
+Hero Honda Splendor Plus,12000.0,2005,Individual,1st owner,48000.0,72752.5,20,Lama,15000.0,-3000.0,Rugi
+Hero Passion PRO i3s,50000.0,2017,Individual,1st owner,18000.0,56925.0,8,Baru,55000.0,-5000.0,Rugi
+Honda Activa 5G,55000.0,2019,Individual,1st owner,9000.0,59422.0,6,Baru,75000.0,-20000.0,Rugi
+Yamaha Fascino 110,45000.0,2016,Individual,1st owner,56000.0,54500.0,9,Baru,50000.0,-5000.0,Rugi
+Hero Splendor Plus,25000.0,2012,Individual,1st owner,50000.0,72752.5,13,Lama,30000.0,-5000.0,Rugi
+Royal Enfield Thunderbird 350,90000.0,2014,Individual,1st owner,12000.0,72752.5,11,Lama,40000.0,50000.0,Untung
+Yamaha YZF R15 V3,120000.0,2018,Individual,1st owner,11500.0,72752.5,7,Baru,65000.0,55000.0,Untung
+KTM RC 200,120000.0,2015,Individual,1st owner,20000.0,72752.5,10,Lama,45000.0,75000.0,Untung
+TVS Radeon,35000.0,2017,Individual,1st owner,20000.0,66492.0,8,Baru,55000.0,-20000.0,Rugi
+Hero HF Deluxe,35000.0,2017,Individual,1st owner,27000.0,72752.5,8,Baru,55000.0,-20000.0,Rugi
+Royal Enfield Thunderbird 350,87000.0,2012,Individual,1st owner,20477.0,72752.5,13,Lama,30000.0,57000.0,Untung
+Hero Honda Splendor Plus,18000.0,2010,Individual,1st owner,35700.0,72752.5,15,Lama,25000.0,-7000.0,Rugi
+Yamaha FZ S V 2.0,50000.0,2014,Individual,1st owner,70000.0,84042.0,11,Lama,40000.0,10000.0,Untung
+Bajaj Avenger Street 220,60000.0,2016,Individual,1st owner,29000.0,95955.0,9,Baru,50000.0,10000.0,Untung
+Hero Honda Splendor Plus,15000.0,2004,Individual,1st owner,14500.0,72752.5,21,Lama,15000.0,0.0,Netral
+Bajaj Platina 100,30000.0,2018,Individual,1st owner,37000.0,72752.5,7,Baru,65000.0,-35000.0,Rugi
+Honda CB Unicorn 150,50000.0,2016,Individual,1st owner,27000.0,74295.0,9,Baru,50000.0,0.0,Netral
+Suzuki Gixxer [2014-2018],62000.0,2017,Individual,1st owner,15000.0,78316.0,8,Baru,55000.0,7000.0,Untung
+Bajaj Platina 100,45000.0,2019,Individual,1st owner,15000.0,72752.5,6,Baru,75000.0,-30000.0,Rugi
+Royal Enfield Thunderbird 350,120000.0,2017,Individual,1st owner,4050.0,72752.5,8,Baru,55000.0,65000.0,Untung
+Royal Enfield Thunderbird 500,125000.0,2014,Individual,1st owner,25000.0,190874.0,11,Lama,40000.0,85000.0,Untung
+Bajaj Pulsar AS150,50000.0,2015,Individual,1st owner,5000.0,80821.0,10,Lama,45000.0,5000.0,Untung
+Bajaj Pulsar 150,30000.0,2012,Individual,2nd owner,5000.0,72752.5,13,Lama,26000.0,4000.0,Untung
+Hero Pleasure,40000.0,2014,Individual,1st owner,14000.0,51600.0,11,Lama,40000.0,0.0,Netral
+Honda Aviator,41000.0,2013,Individual,1st owner,36500.0,63537.0,12,Lama,36500.0,4500.0,Untung
+Royal Enfield Thunderbird 350,120000.0,2017,Individual,2nd owner,9000.0,72752.5,8,Baru,55500.0,64500.0,Untung
+Hero Ignitor,35000.0,2014,Individual,1st owner,33200.0,67722.0,11,Lama,40000.0,-5000.0,Rugi
+Hero Honda CD100SS,10000.0,1997,Individual,1st owner,646000.0,72752.5,28,Lama,17500.0,-7500.0,Rugi
+TVS Apache RTR 160,35000.0,2011,Individual,1st owner,25000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Hero Achiever 150,38000.0,2017,Individual,1st owner,26000.0,69750.0,8,Baru,55000.0,-17000.0,Rugi
+Vespa LX 125,50000.0,2015,Individual,1st owner,3909.0,77900.0,10,Lama,45000.0,5000.0,Untung
+Honda Activa 3G,40000.0,2015,Individual,1st owner,7672.0,54605.0,10,Lama,45000.0,-5000.0,Rugi
+Hero Splendor Plus i3s,70000.0,2019,Individual,1st owner,3000.0,55600.0,6,Baru,75000.0,-5000.0,Rugi
+Hero Maestro,26500.0,2016,Individual,2nd owner,40000.0,53830.0,9,Baru,45000.0,-18500.0,Rugi
+Hero Glamour 125,38000.0,2016,Dealer,1st owner,5500.0,61600.0,9,Baru,50000.0,-12000.0,Rugi
+Yamaha FZ16,60000.0,2016,Individual,1st owner,29950.0,78712.0,9,Baru,50000.0,10000.0,Untung
+Yamaha FZ S V 2.0,78000.0,2017,Individual,1st owner,26100.0,84480.0,8,Baru,55000.0,23000.0,Untung
+Hero Maestro Edge,58000.0,2018,Individual,1st owner,6000.0,54580.0,7,Baru,65000.0,-7000.0,Rugi
+Yamaha FZ25,130000.0,2017,Individual,1st owner,4000.0,132680.0,8,Baru,55000.0,75000.0,Untung
+TVS Victor,20000.0,2001,Individual,1st owner,50000.0,54852.0,24,Lama,20000.0,0.0,Netral
+Bajaj Pulsar 180,32000.0,2012,Individual,1st owner,40000.0,85011.0,13,Lama,30000.0,2000.0,Untung
+Bajaj Pulsar 180,50000.0,2017,Individual,1st owner,20500.0,85011.0,8,Baru,55000.0,-5000.0,Rugi
+KTM 200 Duke,120000.0,2017,Individual,1st owner,4100.0,72752.5,8,Baru,55000.0,65000.0,Untung
+Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,2nd owner,23097.0,80435.0,9,Baru,45000.0,15000.0,Untung
+Bajaj Discover 100 M,20000.0,2011,Individual,1st owner,37734.0,44756.0,14,Lama,25000.0,-5000.0,Rugi
+Royal Enfield Bullet 350 [2007-2011],65000.0,2011,Individual,2nd owner,65000.0,72752.5,14,Lama,29000.0,36000.0,Untung
+Yamaha YZF R15 S,70000.0,2016,Individual,1st owner,8000.0,117926.0,9,Baru,50000.0,20000.0,Untung
+Yamaha FZ V 2.0,35000.0,2014,Individual,1st owner,13500.0,81508.0,11,Lama,40000.0,-5000.0,Rugi
+Bajaj Avenger Street 220,95000.0,2018,Individual,1st owner,23000.0,95955.0,7,Baru,65000.0,30000.0,Untung
+Bajaj Pulsar 150,8000.0,2005,Individual,1st owner,58000.0,72752.5,20,Lama,15000.0,-7000.0,Rugi
+Royal Enfield Thunderbird 350,85000.0,2010,Individual,1st owner,15000.0,72752.5,15,Lama,25000.0,60000.0,Untung
+Hero Achiever 150,65000.0,2016,Individual,1st owner,29000.0,69750.0,9,Baru,50000.0,15000.0,Untung
+Hero Passion Pro 110,39000.0,2013,Individual,1st owner,20000.0,72752.5,12,Lama,36500.0,2500.0,Untung
+Hero Duet,45000.0,2017,Individual,1st owner,35000.0,50280.0,8,Baru,55000.0,-10000.0,Rugi
+Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,1st owner,45137.0,80435.0,9,Baru,50000.0,10000.0,Untung
+Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,35600.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Bajaj Pulsar 135 LS,40000.0,2018,Individual,1st owner,15000.0,64589.0,7,Baru,65000.0,-25000.0,Rugi
+Yamaha Fazer [2009-2016],40000.0,2012,Individual,1st owner,7353.0,84751.0,13,Lama,30000.0,10000.0,Untung
+Honda CB Hornet 160R,56000.0,2017,Individual,2nd owner,13200.0,87543.0,8,Baru,55500.0,500.0,Untung
+Honda CB Unicorn Dazzler,22000.0,2011,Individual,1st owner,38350.0,71757.0,14,Lama,25000.0,-3000.0,Rugi
+Yamaha YBR 125,36000.0,2014,Individual,1st owner,20400.0,54593.0,11,Lama,40000.0,-4000.0,Rugi
+Suzuki Intruder 150 Fi,100000.0,2018,Individual,1st owner,14500.0,110240.0,7,Baru,65000.0,35000.0,Untung
+Bajaj V15,42000.0,2016,Individual,1st owner,19500.0,67187.0,9,Baru,50000.0,-8000.0,Rugi
+Royal Enfield Electra 5 S,85000.0,2008,Individual,1st owner,20000.0,72752.5,17,Lama,25000.0,60000.0,Untung
+Hero Passion PRO TR,45000.0,2014,Individual,1st owner,36000.0,54586.0,11,Lama,40000.0,5000.0,Untung
+Hero Karizma [2003-2014],50000.0,2013,Individual,1st owner,38000.0,85766.0,12,Lama,36500.0,13500.0,Untung
+Royal Enfield Thunderbird 350,60000.0,2006,Individual,1st owner,40000.0,72752.5,19,Lama,17600.0,42400.0,Untung
+Hero Honda Splendor Plus,28000.0,2008,Individual,1st owner,70889.0,72752.5,17,Lama,25000.0,3000.0,Untung
+Bajaj Pulsar 180,42000.0,2014,Individual,2nd owner,19600.0,85011.0,11,Lama,35000.0,7000.0,Untung
+Suzuki Access 125 [2007-2016],16000.0,2011,Individual,1st owner,40000.0,58314.0,14,Lama,25000.0,-9000.0,Rugi
+Hero Splendor iSmart,40000.0,2015,Individual,1st owner,19055.0,52271.0,10,Lama,45000.0,-5000.0,Rugi
+Bajaj Pulsar 180,38000.0,2012,Individual,2nd owner,57000.0,85011.0,13,Lama,26000.0,12000.0,Untung
+Yamaha YZF R15 S,85000.0,2017,Individual,1st owner,13000.0,117926.0,8,Baru,55000.0,30000.0,Untung
+Honda Aviator,28000.0,2013,Individual,1st owner,28087.0,63537.0,12,Lama,36500.0,-8500.0,Rugi
+Royal Enfield Thunderbird 350,120000.0,2016,Individual,1st owner,24600.0,72752.5,9,Baru,50000.0,70000.0,Untung
+Hero Karizma ZMR,37000.0,2010,Individual,1st owner,27500.0,108000.0,15,Lama,25000.0,12000.0,Untung
+Hero Honda Splendor,10000.0,2000,Individual,1st owner,61000.0,72752.5,25,Lama,10000.0,0.0,Netral
+Mahindra Rodeo,20000.0,2013,Individual,1st owner,7000.0,47343.0,12,Lama,36500.0,-16500.0,Rugi
+TVS Apache RTR 160,83299.0,2019,Individual,1st owner,6400.0,72752.5,6,Baru,75000.0,8299.0,Untung
+Yamaha Fazer FI V 2.0 [2016-2018],65000.0,2018,Individual,1st owner,3500.0,89643.0,7,Baru,65000.0,0.0,Netral
+Honda Activa 5G,50000.0,2018,Individual,1st owner,14000.0,59422.0,7,Baru,65000.0,-15000.0,Rugi
+Bajaj Pulsar 220 Fi,65000.0,2013,Individual,1st owner,6409.0,72752.5,12,Lama,36500.0,28500.0,Untung
+Hero Honda Karizma ZMR [2010],45000.0,2012,Individual,3rd owner,44000.0,72752.5,13,Lama,45000.0,0.0,Netral
+Honda CB Hornet 160R,60000.0,2017,Individual,1st owner,16500.0,92210.0,8,Baru,55000.0,5000.0,Untung
+Royal Enfield Bullet 350,110000.0,2015,Individual,1st owner,36000.0,72752.5,10,Lama,45000.0,65000.0,Untung
+Hero Honda CD Deluxe,14700.0,2005,Individual,2nd owner,30000.0,72752.5,20,Lama,14700.0,0.0,Netral
+Yamaha Saluto,38000.0,2015,Individual,1st owner,15000.0,63180.0,10,Lama,45000.0,-7000.0,Rugi
+Suzuki Access 125,70000.0,2018,Individual,1st owner,14500.0,72752.5,7,Baru,65000.0,5000.0,Untung
+TVS Sport,35000.0,2018,Individual,1st owner,26600.0,72752.5,7,Baru,65000.0,-30000.0,Rugi
+Hero Honda Glamour,19000.0,2012,Individual,1st owner,32000.0,72752.5,13,Lama,30000.0,-11000.0,Rugi
+KTM 125 Duke,130000.0,2019,Individual,1st owner,3500.0,72752.5,6,Baru,75000.0,55000.0,Untung
+Bajaj Pulsar NS200,50000.0,2013,Dealer,1st owner,58203.0,72752.5,12,Lama,36500.0,13500.0,Untung
+Bajaj Pulsar 150 [2001-2011],18000.0,2005,Individual,1st owner,21885.0,72752.5,20,Lama,15000.0,3000.0,Untung
+Hero Xtreme 200R,87000.0,2019,Individual,1st owner,3200.0,93400.0,6,Baru,75000.0,12000.0,Untung
+Hero Honda Splendor Plus,40000.0,2007,Individual,1st owner,40000.0,72752.5,18,Lama,20000.0,20000.0,Untung
+Bajaj Discover 150S,35000.0,2015,Individual,1st owner,28000.0,63331.0,10,Lama,45000.0,-10000.0,Rugi
+Honda CBR-250R,100000.0,2011,Individual,2nd owner,3500.0,171646.0,14,Lama,29000.0,71000.0,Untung
+Hero Pleasure,30000.0,2013,Individual,1st owner,24000.0,51600.0,12,Lama,36500.0,-6500.0,Rugi
+Bajaj Avenger Cruise 220,95000.0,2018,Individual,1st owner,1800.0,72752.5,7,Baru,65000.0,30000.0,Untung
+Bajaj Discover 125 ST,25000.0,2012,Individual,1st owner,76000.0,58438.0,13,Lama,30000.0,-5000.0,Rugi
+Bajaj Pulsar 150 [2001-2011],26500.0,2010,Individual,1st owner,52500.0,72752.5,15,Lama,25000.0,1500.0,Untung
+Bajaj Boxer,12000.0,2008,Individual,1st owner,17500.0,72752.5,17,Lama,25000.0,-13000.0,Rugi
+Bajaj Pulsar 150,20000.0,2006,Individual,1st owner,41000.0,72752.5,19,Lama,17600.0,2400.0,Untung
+Bajaj Pulsar 180,14900.0,2007,Individual,1st owner,50000.0,85011.0,18,Lama,20000.0,-5100.0,Rugi
+Honda Dream Yuga,48000.0,2018,Individual,1st owner,7110.0,56147.0,7,Baru,65000.0,-17000.0,Rugi
+Yamaha FZ S [2012-2016],40000.0,2014,Individual,1st owner,27785.0,79432.0,11,Lama,40000.0,0.0,Netral
+Honda CB Unicorn,45000.0,2010,Individual,1st owner,75000.0,71681.0,15,Lama,25000.0,20000.0,Untung
+Honda Shine,25000.0,2010,Individual,1st owner,20000.0,72752.5,15,Lama,25000.0,0.0,Netral
+Honda Activa 3G,25000.0,2011,Individual,1st owner,20000.0,54605.0,14,Lama,25000.0,0.0,Netral
+Honda Activa [2000-2015],10000.0,2009,Individual,1st owner,60000.0,50267.0,16,Lama,23000.0,-13000.0,Rugi
+Mahindra Flyte,22000.0,2009,Individual,3rd owner,20000.0,44493.0,16,Lama,22000.0,0.0,Netral
+Honda Activa 3G,45000.0,2015,Individual,1st owner,18000.0,54605.0,10,Lama,45000.0,0.0,Netral
+Yamaha Ray Z,75000.0,2017,Individual,1st owner,15000.0,52949.0,8,Baru,55000.0,20000.0,Untung
+Bajaj Pulsar 135 LS,24000.0,2010,Individual,1st owner,45000.0,64589.0,15,Lama,25000.0,-1000.0,Rugi
+Yamaha FZ16,45000.0,2016,Individual,1st owner,37000.0,78712.0,9,Baru,50000.0,-5000.0,Rugi
+Hero Passion PRO i3s,55000.0,2017,Individual,1st owner,14600.0,54475.0,8,Baru,55000.0,0.0,Netral
+Bajaj Discover 125,10000.0,2006,Individual,1st owner,51000.0,57549.0,19,Lama,17600.0,-7600.0,Rugi
+Honda CB Unicorn 150,55000.0,2017,Individual,1st owner,12000.0,74295.0,8,Baru,55000.0,0.0,Netral
+Bajaj Avenger [2015],35000.0,2012,Individual,1st owner,15000.0,75502.0,13,Lama,30000.0,5000.0,Untung
+Bajaj Super,20000.0,1988,Individual,1st owner,21000.0,72752.5,37,Lama,20000.0,0.0,Netral
+Bajaj Pulsar 150,26000.0,2012,Individual,2nd owner,65000.0,72752.5,13,Lama,26000.0,0.0,Netral
+Honda Activa [2000-2015],23000.0,2009,Individual,1st owner,95000.0,50267.0,16,Lama,23000.0,0.0,Netral
+Hero Honda CD Deluxe,24700.0,2012,Individual,2nd owner,40000.0,72752.5,13,Lama,26000.0,-1300.0,Rugi
+Hero Duet,35000.0,2016,Individual,2nd owner,49637.0,54080.0,9,Baru,45000.0,-10000.0,Rugi
+Hero Honda Passion PRO [2012],12000.0,2012,Individual,1st owner,90000.0,72752.5,13,Lama,30000.0,-18000.0,Rugi
+Honda Activa 3G,50000.0,2016,Individual,1st owner,5326.0,54605.0,9,Baru,50000.0,0.0,Netral
+Honda Activa [2000-2015],25000.0,2009,Individual,1st owner,585659.0,50267.0,16,Lama,23000.0,2000.0,Untung
+Hero Honda CD100,15000.0,1999,Dealer,2nd owner,10000.0,72752.5,26,Lama,15000.0,0.0,Netral
+Hero Super Splendor,35000.0,2014,Individual,2nd owner,37541.0,72752.5,11,Lama,35000.0,0.0,Netral
+Honda CB Trigger,45000.0,2015,Individual,1st owner,36000.0,83437.0,10,Lama,45000.0,0.0,Netral
+Honda Dream Yuga,25000.0,2013,Individual,1st owner,29000.0,56147.0,12,Lama,36500.0,-11500.0,Rugi
+Hero Honda Passion Plus,40000.0,2018,Individual,1st owner,29000.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+TVS Spectra,17000.0,2008,Individual,1st owner,50000.0,72752.5,17,Lama,25000.0,-8000.0,Rugi
+Hero Ignitor,30000.0,2016,Individual,1st owner,18000.0,67722.0,9,Baru,50000.0,-20000.0,Rugi
+Hero Honda CD100,15000.0,2000,Individual,1st owner,50000.0,72752.5,25,Lama,10000.0,5000.0,Untung
+Bajaj Pulsar 220F,60000.0,2017,Individual,2nd owner,40000.0,72752.5,8,Baru,55500.0,4500.0,Untung
+Hero Splendor Plus,30000.0,2013,Individual,1st owner,20000.0,72752.5,12,Lama,36500.0,-6500.0,Rugi
+Yamaha YZF R15 [2011-2018],60000.0,2012,Individual,1st owner,22000.0,118997.0,13,Lama,30000.0,30000.0,Untung
+Honda Activa 3G,32000.0,2015,Individual,1st owner,4500.0,54605.0,10,Lama,45000.0,-13000.0,Rugi
+Bajaj Discover 150,30000.0,2012,Individual,1st owner,50000.0,54299.0,13,Lama,30000.0,0.0,Netral
+Bajaj Pulsar 150 [2001-2011],55000.0,2010,Individual,1st owner,42000.0,72752.5,15,Lama,25000.0,30000.0,Untung
+Bajaj Avenger Street 150 [2018],75000.0,2016,Individual,1st owner,35000.0,80435.0,9,Baru,50000.0,25000.0,Untung
+TVS Star City Plus,52000.0,2017,Individual,1st owner,25000.0,72752.5,8,Baru,55000.0,-3000.0,Rugi
+Bajaj Discover 125,38000.0,2018,Individual,1st owner,34000.0,60122.0,7,Baru,65000.0,-27000.0,Rugi
+Bajaj Discover 135,12000.0,2007,Individual,1st owner,60000.0,72752.5,18,Lama,20000.0,-8000.0,Rugi
+Honda CB Shine SP,47000.0,2017,Individual,1st owner,73000.0,64750.0,8,Baru,55000.0,-8000.0,Rugi
+Honda Activa [2000-2015],22000.0,2014,Individual,1st owner,38000.0,50267.0,11,Lama,40000.0,-18000.0,Rugi
+Bajaj Avenger [2015],65000.0,2015,Individual,1st owner,26000.0,75502.0,10,Lama,45000.0,20000.0,Untung
+Bajaj Platina 100,23000.0,2013,Individual,2nd owner,24000.0,72752.5,12,Lama,25000.0,-2000.0,Rugi
+Bajaj Discover 100,30000.0,2011,Individual,1st owner,45000.0,42859.0,14,Lama,25000.0,5000.0,Untung
+Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,36000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Bajaj Avenger Street 150 [2018],80000.0,2017,Individual,1st owner,30000.0,80435.0,8,Baru,55000.0,25000.0,Untung
+Bajaj Platina 100,20000.0,2012,Individual,1st owner,16295.0,72752.5,13,Lama,30000.0,-10000.0,Rugi
+Bajaj Pulsar 150,16000.0,2011,Individual,2nd owner,59000.0,72752.5,14,Lama,29000.0,-13000.0,Rugi
+Bajaj Pulsar 150,20000.0,2006,Individual,1st owner,9500.0,72752.5,19,Lama,17600.0,2400.0,Untung
+Bajaj Pulsar NS200,50000.0,2012,Individual,1st owner,46000.0,72752.5,13,Lama,30000.0,20000.0,Untung
+Honda CB Trigger,40000.0,2015,Individual,1st owner,75000.0,76572.0,10,Lama,45000.0,-5000.0,Rugi
+Bajaj Pulsar 135 LS,20000.0,2010,Individual,1st owner,80000.0,64589.0,15,Lama,25000.0,-5000.0,Rugi
+Bajaj Pulsar 180,65000.0,2018,Individual,1st owner,26000.0,85011.0,7,Baru,65000.0,0.0,Netral
+Yamaha YZF R15 S,85000.0,2016,Individual,1st owner,26000.0,117926.0,9,Baru,50000.0,35000.0,Untung
+Hero Splendor Plus,12000.0,2007,Individual,1st owner,100000.0,72752.5,18,Lama,20000.0,-8000.0,Rugi
+Hero Xpulse 200T,105000.0,2019,Individual,1st owner,2900.0,96500.0,6,Baru,75000.0,30000.0,Untung
+Yamaha FZ S V 2.0,40000.0,2015,Individual,1st owner,25000.0,84042.0,10,Lama,45000.0,-5000.0,Rugi
+Bajaj Discover 150,30000.0,2011,Individual,2nd owner,39500.0,54299.0,14,Lama,29000.0,1000.0,Untung
+Honda Activa [2000-2015],25000.0,2012,Individual,1st owner,40000.0,50267.0,13,Lama,30000.0,-5000.0,Rugi
+Hero Splendor PRO,40000.0,2016,Individual,1st owner,16000.0,51994.0,9,Baru,50000.0,-10000.0,Rugi
+Honda Dream Neo,45000.0,2017,Individual,2nd owner,21000.0,49211.0,8,Baru,55500.0,-10500.0,Rugi
+Bajaj CT 100,40000.0,2018,Individual,1st owner,14000.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+Suzuki Access 125,70000.0,2018,Individual,1st owner,7000.0,76632.0,7,Baru,65000.0,5000.0,Untung
+Honda Activa [2000-2015],30000.0,2012,Individual,1st owner,22000.0,50267.0,13,Lama,30000.0,0.0,Netral
+Hero Honda Pleasure,25000.0,2009,Individual,1st owner,50000.0,72752.5,16,Lama,23000.0,2000.0,Untung
+Bajaj Platina 100,20000.0,2012,Individual,1st owner,16295.0,72752.5,13,Lama,30000.0,-10000.0,Rugi
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,35000.0,87719.0,8,Baru,55000.0,15000.0,Untung
+Bajaj V15,50000.0,2017,Individual,1st owner,9000.0,65626.0,8,Baru,55000.0,-5000.0,Rugi
+Hero Honda CD Deluxe,25000.0,2010,Individual,1st owner,35000.0,72752.5,15,Lama,25000.0,0.0,Netral
+Bajaj Pulsar 150,22000.0,2011,Individual,1st owner,60000.0,72752.5,14,Lama,25000.0,-3000.0,Rugi
+Honda Activa [2000-2015],35000.0,2013,Individual,1st owner,29500.0,50267.0,12,Lama,36500.0,-1500.0,Rugi
+TVS Apache RTR 160,40000.0,2014,Individual,2nd owner,50000.0,72752.5,11,Lama,35000.0,5000.0,Untung
+Bajaj Pulsar 220F,75000.0,2016,Individual,1st owner,10500.0,72752.5,9,Baru,50000.0,25000.0,Untung
+Hero Honda Passion PRO [2012],28000.0,2011,Individual,2nd owner,60000.0,72752.5,14,Lama,29000.0,-1000.0,Rugi
+Hero Maestro Edge,55000.0,2018,Individual,1st owner,39000.0,52790.0,7,Baru,65000.0,-10000.0,Rugi
+Honda Dio,30000.0,2014,Individual,1st owner,24000.0,72752.5,11,Lama,40000.0,-10000.0,Rugi
+Hero Glamour 125,40000.0,2016,Individual,1st owner,15000.0,61600.0,9,Baru,50000.0,-10000.0,Rugi
+Bajaj Avenger Street 160,85000.0,2019,Individual,1st owner,3000.0,72752.5,6,Baru,75000.0,10000.0,Untung
+Hero Honda CD Deluxe,12000.0,2007,Individual,2nd owner,100000.0,72752.5,18,Lama,18000.0,-6000.0,Rugi
+Yamaha YBR 125,35000.0,2013,Individual,1st owner,20350.0,54593.0,12,Lama,36500.0,-1500.0,Rugi
+Bajaj Pulsar 150,25000.0,2015,Individual,2nd owner,50000.0,72752.5,10,Lama,30000.0,-5000.0,Rugi
+Bajaj Pulsar 150,40000.0,2012,Individual,2nd owner,37000.0,72752.5,13,Lama,26000.0,14000.0,Untung
+Hero Honda CD Deluxe,15000.0,2011,Individual,1st owner,70000.0,72752.5,14,Lama,25000.0,-10000.0,Rugi
+Hero Passion PRO i3s,55000.0,2018,Individual,1st owner,15000.0,54475.0,7,Baru,65000.0,-10000.0,Rugi
+Bajaj Pulsar 180,60000.0,2015,Individual,1st owner,28563.0,85011.0,10,Lama,45000.0,15000.0,Untung
+Yamaha Fazer 25,115000.0,2018,Individual,1st owner,11000.0,142680.0,7,Baru,65000.0,50000.0,Untung
+TVS Excel,5000.0,1998,Individual,1st owner,60000.0,72752.5,27,Lama,10000.0,-5000.0,Rugi
+Honda Shine,40000.0,2015,Individual,1st owner,21121.0,72752.5,10,Lama,45000.0,-5000.0,Rugi
+Honda Dream Neo,50000.0,2014,Individual,1st owner,25000.0,49211.0,11,Lama,40000.0,10000.0,Untung
+Honda Dio,28000.0,2014,Individual,1st owner,13000.0,72752.5,11,Lama,40000.0,-12000.0,Rugi
+Hero Splendor Plus,35000.0,2013,Individual,1st owner,55000.0,72752.5,12,Lama,36500.0,-1500.0,Rugi
+Bajaj Xcd,25000.0,2007,Individual,2nd owner,100000.0,72752.5,18,Lama,18000.0,7000.0,Untung
+TVS Streak,20000.0,2009,Individual,2nd owner,36000.0,72752.5,16,Lama,20000.0,0.0,Netral
+Bajaj Pulsar 180,40000.0,2013,Individual,1st owner,34000.0,85011.0,12,Lama,36500.0,3500.0,Untung
+Hero Xtreme 200R,86000.0,2018,Individual,1st owner,12000.0,93400.0,7,Baru,65000.0,21000.0,Untung
+Yamaha YZF R15 [2011-2018],65000.0,2011,Individual,1st owner,29000.0,72752.5,14,Lama,25000.0,40000.0,Untung
+Bajaj Avenger Street 150 [2018],60000.0,2017,Individual,1st owner,30000.0,80435.0,8,Baru,55000.0,5000.0,Untung
+Yamaha RX135,65000.0,1998,Individual,3rd owner,16500.0,72752.5,27,Lama,65000.0,0.0,Netral
+Honda CB Shine SP,41000.0,2017,Individual,1st owner,33000.0,66697.0,8,Baru,55000.0,-14000.0,Rugi
+Honda CBR150 R,110000.0,2017,Individual,1st owner,11800.0,129662.0,8,Baru,55000.0,55000.0,Untung
+Honda Dream Yuga,32000.0,2017,Individual,1st owner,39000.0,56147.0,8,Baru,55000.0,-23000.0,Rugi
+Honda Shine,37000.0,2014,Individual,1st owner,16145.0,72752.5,11,Lama,40000.0,-3000.0,Rugi
+Hero Splendor Plus i3s,65000.0,2019,Individual,1st owner,1000.0,55600.0,6,Baru,75000.0,-10000.0,Rugi
+Hero Honda Passion Plus,18000.0,2007,Individual,2nd owner,50000.0,72752.5,18,Lama,18000.0,0.0,Netral
+Hero Honda Passion PRO [2012],28700.0,2012,Individual,2nd owner,49876.0,72752.5,13,Lama,26000.0,2700.0,Untung
+Honda Activa 3G,35000.0,2016,Individual,1st owner,51000.0,54605.0,9,Baru,50000.0,-15000.0,Rugi
+Bajaj Pulsar 180F,100000.0,2019,Individual,1st owner,1300.0,72752.5,6,Baru,75000.0,25000.0,Untung
+Hero Honda Glamour,21000.0,2010,Individual,1st owner,11000.0,72752.5,15,Lama,25000.0,-4000.0,Rugi
+Bajaj Pulsar 150 [2001-2011],30000.0,2010,Individual,2nd owner,55000.0,72752.5,15,Lama,25000.0,5000.0,Untung
+TVS Apache RTR 200 4V,90000.0,2019,Individual,1st owner,20000.0,72752.5,6,Baru,75000.0,15000.0,Untung
+Bajaj Super,6000.0,1991,Individual,1st owner,35000.0,72752.5,34,Lama,6000.0,0.0,Netral
+Hero Honda Passion Plus,23500.0,2010,Individual,1st owner,60000.0,72752.5,15,Lama,25000.0,-1500.0,Rugi
+Bajaj Pulsar 150,55000.0,2015,Individual,2nd owner,40000.0,72752.5,10,Lama,30000.0,25000.0,Untung
+Yamaha SZ X,35000.0,2010,Individual,1st owner,46000.0,65800.0,15,Lama,25000.0,10000.0,Untung
+Hero Honda CD100,15000.0,1998,Individual,1st owner,65000.0,72752.5,27,Lama,10000.0,5000.0,Untung
+Bajaj Pulsar 180,35000.0,2009,Individual,1st owner,19000.0,85011.0,16,Lama,23000.0,12000.0,Untung
+Bajaj Pulsar 220 DTS-i,40000.0,2011,Individual,1st owner,26000.0,72752.5,14,Lama,25000.0,15000.0,Untung
+Hero Honda Achiever,15000.0,2009,Individual,1st owner,86000.0,72752.5,16,Lama,23000.0,-8000.0,Rugi
+Hero Honda Karizma,40000.0,2011,Individual,2nd owner,340000.0,72752.5,14,Lama,29000.0,11000.0,Untung
+Honda CB Unicorn 160,75000.0,2016,Individual,1st owner,40000.0,77545.0,9,Baru,50000.0,25000.0,Untung
+Bajaj Avenger Cruise 220,70000.0,2016,Individual,1st owner,10000.0,72752.5,9,Baru,50000.0,20000.0,Untung
+Bajaj Discover 135,22000.0,2007,Individual,1st owner,25000.0,72752.5,18,Lama,20000.0,2000.0,Untung
+Yamaha FZ S V 2.0,80000.0,2019,Individual,1st owner,10000.0,87042.0,6,Baru,75000.0,5000.0,Untung
+Bajaj Pulsar 150,72000.0,2017,Individual,1st owner,24000.0,72752.5,8,Baru,55000.0,17000.0,Untung
+Hero HF Deluxe,30000.0,2014,Individual,2nd owner,35000.0,72752.5,11,Lama,35000.0,-5000.0,Rugi
+Bajaj Pulsar 135 LS,25000.0,2011,Individual,2nd owner,30000.0,64589.0,14,Lama,29000.0,-4000.0,Rugi
+Aprilia SR 125,65000.0,2018,Individual,1st owner,6500.0,72752.5,7,Baru,65000.0,0.0,Netral
+Bajaj Pulsar 150,68000.0,2019,Individual,1st owner,10000.0,72752.5,6,Baru,75000.0,-7000.0,Rugi
+Hero Duet,27000.0,2016,Individual,1st owner,28000.0,50280.0,9,Baru,50000.0,-23000.0,Rugi
+Honda CB Twister,25000.0,2015,Individual,1st owner,35000.0,57241.0,10,Lama,45000.0,-20000.0,Rugi
+Bajaj Discover 125,45000.0,2016,Individual,1st owner,20000.0,60122.0,9,Baru,50000.0,-5000.0,Rugi
+Bajaj Pulsar 180,20100.0,2008,Individual,1st owner,36000.0,85011.0,17,Lama,25000.0,-4900.0,Rugi
+Honda Shine,30000.0,2014,Individual,1st owner,25000.0,72752.5,11,Lama,40000.0,-10000.0,Rugi
+Suzuki Swish [2012-2015],30000.0,2014,Individual,1st owner,30000.0,51685.0,11,Lama,40000.0,-10000.0,Rugi
+TVS Star City,21000.0,2011,Individual,1st owner,101000.0,47108.0,14,Lama,25000.0,-4000.0,Rugi
+Hero Super Splendor,45000.0,2012,Individual,1st owner,21000.0,72752.5,13,Lama,30000.0,15000.0,Untung
+Yamaha Fazer [2009-2016],45000.0,2014,Individual,1st owner,57700.0,84751.0,11,Lama,40000.0,5000.0,Untung
+TVS Scooty Pep DLX,14500.0,2012,Individual,1st owner,44000.0,72752.5,13,Lama,30000.0,-15500.0,Rugi
+Honda Dream Yuga,47000.0,2019,Individual,1st owner,8800.0,56147.0,6,Baru,75000.0,-28000.0,Rugi
+TVS Star City Plus,26000.0,2014,Individual,2nd owner,68000.0,72752.5,11,Lama,35000.0,-9000.0,Rugi
+Yamaha Fazer [2009-2016],25000.0,2013,Individual,1st owner,120000.0,84751.0,12,Lama,36500.0,-11500.0,Rugi
+Hero Honda Street Smart,10000.0,2000,Individual,1st owner,24000.0,72752.5,25,Lama,10000.0,0.0,Netral
+TVS Apache RTR 160,50000.0,2017,Individual,1st owner,38000.0,72752.5,8,Baru,55000.0,-5000.0,Rugi
+Honda Dio,23000.0,2010,Individual,1st owner,40000.0,72752.5,15,Lama,25000.0,-2000.0,Rugi
+Honda Activa [2000-2015],50000.0,2014,Individual,1st owner,48000.0,50267.0,11,Lama,40000.0,10000.0,Untung
+Hero Maestro Edge,46000.0,2015,Individual,1st owner,14000.0,55980.0,10,Lama,45000.0,1000.0,Untung
+Honda CB Hornet 160R,80000.0,2017,Individual,1st owner,18000.0,87719.0,8,Baru,55000.0,25000.0,Untung
+Hero Karizma [2003-2014],50000.0,2013,Individual,1st owner,38000.0,85766.0,12,Lama,36500.0,13500.0,Untung
+Honda CB Trigger,40000.0,2014,Individual,1st owner,75000.0,83437.0,11,Lama,40000.0,0.0,Netral
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,35000.0,87719.0,8,Baru,55000.0,15000.0,Untung
+Hero Glamour FI,30900.0,2014,Individual,1st owner,25000.0,71150.0,11,Lama,40000.0,-9100.0,Rugi
+Bajaj Avenger [2015],65000.0,2010,Individual,1st owner,20000.0,75502.0,15,Lama,25000.0,40000.0,Untung
+Hero Honda Splendor Plus,15000.0,2006,Individual,1st owner,100000.0,72752.5,19,Lama,17600.0,-2600.0,Rugi
+TVS Apache RTR 160,89999.0,2019,Individual,1st owner,6400.0,72752.5,6,Baru,75000.0,14999.0,Untung
+Hero Honda Splendor Plus,17600.0,2006,Individual,1st owner,52000.0,72752.5,19,Lama,17600.0,0.0,Netral
+Bajaj Platina 100,17000.0,2007,Individual,1st owner,16000.0,72752.5,18,Lama,20000.0,-3000.0,Rugi
+Yamaha FZ25,90000.0,2018,Individual,1st owner,8200.0,132680.0,7,Baru,65000.0,25000.0,Untung
+Bajaj Pulsar 150 [2001-2011],35000.0,2010,Individual,1st owner,60000.0,72752.5,15,Lama,25000.0,10000.0,Untung
+Yamaha YZF R15 S,70000.0,2017,Individual,1st owner,16000.0,117926.0,8,Baru,55000.0,15000.0,Untung
+Bajaj Discover 125,15000.0,2011,Individual,1st owner,47000.0,57549.0,14,Lama,25000.0,-10000.0,Rugi
+Hero Passion PRO i3s,35000.0,2016,Individual,1st owner,18000.0,54475.0,9,Baru,50000.0,-15000.0,Rugi
+Honda Activa [2000-2015],15000.0,2006,Individual,1st owner,50000.0,50267.0,19,Lama,17600.0,-2600.0,Rugi
+Bajaj Discover 125,50000.0,2018,Individual,1st owner,6000.0,60122.0,7,Baru,65000.0,-15000.0,Rugi
+Suzuki Gixxer [2014-2018],69000.0,2017,Individual,1st owner,20000.0,82813.0,8,Baru,55000.0,14000.0,Untung
+TVS Wego,15000.0,2011,Individual,1st owner,65000.0,54760.0,14,Lama,25000.0,-10000.0,Rugi
+Bajaj Discover 150,25000.0,2008,Individual,1st owner,25000.0,54299.0,17,Lama,25000.0,0.0,Netral
+Suzuki Access 125 [2007-2016],30000.0,2012,Individual,1st owner,23000.0,58314.0,13,Lama,30000.0,0.0,Netral
+Hero Karizma 2014,45000.0,2014,Individual,1st owner,5555.0,86744.0,11,Lama,40000.0,5000.0,Untung
+Hero CD Deluxe,35000.0,2016,Individual,1st owner,38000.0,72752.5,9,Baru,50000.0,-15000.0,Rugi
+Yamaha Fazer 25,120000.0,2018,Individual,1st owner,6000.0,142680.0,7,Baru,65000.0,55000.0,Untung
+Hero Splendor Plus,25000.0,2015,Individual,1st owner,45000.0,72752.5,10,Lama,45000.0,-20000.0,Rugi
+Yamaha YZF R15 [2011-2018],80000.0,2017,Individual,1st owner,27000.0,118997.0,8,Baru,55000.0,25000.0,Untung
+Hero Honda Splendor Plus,10000.0,2007,Individual,1st owner,98000.0,72752.5,18,Lama,20000.0,-10000.0,Rugi
+TVS Apache RTR 160,70000.0,2018,Individual,1st owner,16000.0,72752.5,7,Baru,65000.0,5000.0,Untung
+Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,50000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Hero Glamour 125,40000.0,2015,Individual,1st owner,71250.0,61600.0,10,Lama,45000.0,-5000.0,Rugi
+Hero Honda Passion Plus,20000.0,2006,Individual,1st owner,28000.0,72752.5,19,Lama,17600.0,2400.0,Untung
+Honda CB Twister,30000.0,2012,Individual,1st owner,50000.0,57241.0,13,Lama,30000.0,0.0,Netral
+Bajaj CT 100,8000.0,2005,Individual,2nd owner,82000.0,72752.5,20,Lama,14700.0,-6700.0,Rugi
+Bajaj Pulsar 220 DTS-i,65000.0,2013,Individual,1st owner,6409.0,72752.5,12,Lama,36500.0,28500.0,Untung
+Hero Honda Super Splendor [2005],20000.0,2008,Individual,1st owner,54000.0,72752.5,17,Lama,25000.0,-5000.0,Rugi
+Honda CB Trigger,45000.0,2013,Individual,1st owner,20000.0,76572.0,12,Lama,36500.0,8500.0,Untung
+Hero Hunk,35000.0,2013,Individual,1st owner,50000.0,78513.0,12,Lama,36500.0,-1500.0,Rugi
+Bajaj Discover 150,25000.0,2011,Individual,1st owner,52000.0,54299.0,14,Lama,25000.0,0.0,Netral
+TVS Apache RTR 160,15000.0,2009,Individual,4th owner,880000.0,72752.5,16,Lama,15000.0,0.0,Netral
+Hero Xtreme Sports,65000.0,2017,Individual,1st owner,23000.0,78350.0,8,Baru,55000.0,10000.0,Untung
+Bajaj Avenger [2015],45000.0,2011,Individual,1st owner,35000.0,75502.0,14,Lama,25000.0,20000.0,Untung
+Honda Activa 125,45000.0,2017,Individual,1st owner,49000.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+Bajaj Pulsar 220F,50000.0,2011,Individual,2nd owner,55000.0,72752.5,14,Lama,29000.0,21000.0,Untung
+Bajaj Pulsar NS200,85000.0,2018,Individual,2nd owner,15100.0,72752.5,7,Baru,107500.0,-22500.0,Rugi
+Hero Honda Splendor,25000.0,2008,Individual,1st owner,38000.0,72752.5,17,Lama,25000.0,0.0,Netral
+Honda CB Unicorn 150,60000.0,2017,Individual,1st owner,12652.0,74295.0,8,Baru,55000.0,5000.0,Untung
+Suzuki Gixxer SF Fi,100000.0,2019,Individual,1st owner,7000.0,103170.0,6,Baru,75000.0,25000.0,Untung
+Bajaj Discover 100,25000.0,2010,Individual,2nd owner,28000.0,42859.0,15,Lama,25000.0,0.0,Netral
+TVS Wego,15000.0,2011,Individual,2nd owner,20000.0,54760.0,14,Lama,29000.0,-14000.0,Rugi
+Honda CB Hornet 160R,60000.0,2017,Individual,2nd owner,16008.0,92210.0,8,Baru,55500.0,4500.0,Untung
+Yamaha YZF R15 S,75000.0,2018,Individual,1st owner,36000.0,117926.0,7,Baru,65000.0,10000.0,Untung
+Hero CBZ,35000.0,2010,Individual,1st owner,36000.0,72752.5,15,Lama,25000.0,10000.0,Untung
+TVS Scooty Zest 110,55000.0,2018,Individual,1st owner,380.0,53751.0,7,Baru,65000.0,-10000.0,Rugi
+Yamaha FZ S V 2.0,85000.0,2018,Individual,1st owner,50000.0,87042.0,7,Baru,65000.0,20000.0,Untung
+Hero Honda Glamour,35000.0,2012,Individual,1st owner,30000.0,72752.5,13,Lama,30000.0,5000.0,Untung
+Hero Honda CBZ extreme,35000.0,2011,Individual,1st owner,35000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Yamaha FZ S V 2.0,60000.0,2017,Individual,1st owner,14500.0,84042.0,8,Baru,55000.0,5000.0,Untung
+Suzuki Access 125,40000.0,2017,Individual,1st owner,15000.0,72752.5,8,Baru,55000.0,-15000.0,Rugi
+Bajaj Pulsar 150,30000.0,2010,Individual,1st owner,54000.0,72752.5,15,Lama,25000.0,5000.0,Untung
+Bajaj Pulsar NS160,80000.0,2018,Individual,1st owner,11000.0,72752.5,7,Baru,65000.0,15000.0,Untung
+Hero Splendor PRO,24000.0,2011,Individual,1st owner,43000.0,51994.0,14,Lama,25000.0,-1000.0,Rugi
+Honda Shine,18000.0,2010,Individual,1st owner,15000.0,72752.5,15,Lama,25000.0,-7000.0,Rugi
+Hero Passion Pro 110,20000.0,2008,Individual,3rd owner,40000.0,72752.5,17,Lama,22500.0,-2500.0,Rugi
+Yamaha FZ16,40000.0,2016,Individual,1st owner,93000.0,78712.0,9,Baru,50000.0,-10000.0,Rugi
+Suzuki Access 125,20000.0,2012,Individual,1st owner,24000.0,72752.5,13,Lama,30000.0,-10000.0,Rugi
+TVS Jupiter,70000.0,2018,Individual,1st owner,14000.0,72752.5,7,Baru,65000.0,5000.0,Untung
+Hero Passion Pro 110,50000.0,2019,Individual,1st owner,29442.0,72752.5,6,Baru,75000.0,-25000.0,Rugi
+Yamaha FZ S V 2.0,75000.0,2017,Individual,1st owner,20000.0,84042.0,8,Baru,55000.0,20000.0,Untung
+Honda Livo,25000.0,2015,Individual,1st owner,30000.0,72752.5,10,Lama,45000.0,-20000.0,Rugi
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,38000.0,87543.0,8,Baru,55000.0,15000.0,Untung
+Honda Activa 125 [2016-2017],55000.0,2018,Individual,1st owner,18000.0,61545.0,7,Baru,65000.0,-10000.0,Rugi
+Honda Activa 5G,51000.0,2018,Individual,1st owner,14000.0,59422.0,7,Baru,65000.0,-14000.0,Rugi
+Yamaha Saluto,74000.0,2019,Individual,1st owner,13000.0,59844.0,6,Baru,75000.0,-1000.0,Rugi
+Yamaha FZ S V 2.0,65000.0,2017,Individual,1st owner,42000.0,84042.0,8,Baru,55000.0,10000.0,Untung
+Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,2nd owner,27000.0,80435.0,9,Baru,45000.0,15000.0,Untung
+Bajaj Pulsar 220F,110000.0,2019,Individual,1st owner,4000.0,72752.5,6,Baru,75000.0,35000.0,Untung
+Yamaha YZF R15 [2011-2018],50000.0,2014,Individual,1st owner,1200.0,118997.0,11,Lama,40000.0,10000.0,Untung
+TVS Apache RTR 160 4V,85009.0,2018,Individual,1st owner,7500.0,72752.5,7,Baru,65000.0,20009.0,Untung
+Hero Passion Pro 110,60000.0,2013,Individual,1st owner,15000.0,72752.5,12,Lama,36500.0,23500.0,Untung
+Bajaj Pulsar 150,25000.0,2013,Individual,2nd owner,70000.0,72752.5,12,Lama,25000.0,0.0,Netral
+TVS Apache RTR 160 4V,75000.0,2019,Individual,1st owner,12657.0,72752.5,6,Baru,75000.0,0.0,Netral
+Honda CB Unicorn 150,30000.0,2010,Individual,1st owner,69000.0,74295.0,15,Lama,25000.0,5000.0,Untung
+Honda Activa [2000-2015],16600.0,2010,Individual,1st owner,100000.0,50267.0,15,Lama,25000.0,-8400.0,Rugi
+Honda Activa 3G,30000.0,2015,Individual,1st owner,18000.0,54605.0,10,Lama,45000.0,-15000.0,Rugi
+Honda Shine,20000.0,2007,Individual,1st owner,80000.0,72752.5,18,Lama,20000.0,0.0,Netral
+Honda Activa 5G,62000.0,2019,Individual,1st owner,11200.0,59422.0,6,Baru,75000.0,-13000.0,Rugi
+Bajaj Avenger Street 220,60000.0,2016,Individual,1st owner,17000.0,95955.0,9,Baru,50000.0,10000.0,Untung
+Hero Xtreme [2013-2014],45000.0,2014,Individual,1st owner,56420.0,72492.0,11,Lama,40000.0,5000.0,Untung
+Yamaha FZ S [2012-2016],40000.0,2011,Individual,1st owner,82000.0,79432.0,14,Lama,25000.0,15000.0,Untung
+Suzuki Intruder 150,75000.0,2018,Individual,1st owner,10000.0,72752.5,7,Baru,65000.0,10000.0,Untung
+Yamaha Fazer [2009-2016],50000.0,2012,Individual,1st owner,100000.0,84751.0,13,Lama,30000.0,20000.0,Untung
+Bajaj Pulsar RS 200,105000.0,2017,Individual,1st owner,18345.0,72752.5,8,Baru,55000.0,50000.0,Untung
+Bajaj Discover 135,30000.0,2009,Individual,1st owner,20000.0,72752.5,16,Lama,23000.0,7000.0,Untung
+Hero Honda CBZ,10000.0,2000,Individual,4th owner,48000.0,72752.5,25,Lama,10000.0,0.0,Netral
+Bajaj Pulsar 135 LS,45000.0,2014,Individual,1st owner,14000.0,64589.0,11,Lama,40000.0,5000.0,Untung
+Honda CB Unicorn 150,45000.0,2016,Individual,2nd owner,50000.0,74295.0,9,Baru,45000.0,0.0,Netral
+Honda Activa 5G,65000.0,2019,Individual,1st owner,3025.0,59422.0,6,Baru,75000.0,-10000.0,Rugi
+Bajaj Pulsar 135 LS,20000.0,2011,Individual,1st owner,60000.0,64589.0,14,Lama,25000.0,-5000.0,Rugi
+Hero Duet,37000.0,2016,Individual,1st owner,6000.0,50280.0,9,Baru,50000.0,-13000.0,Rugi
+Hero Splendor NXG,18000.0,2011,Individual,1st owner,35000.0,44814.0,14,Lama,25000.0,-7000.0,Rugi
+Hero Glamour 125,25000.0,2013,Individual,1st owner,50000.0,61600.0,12,Lama,36500.0,-11500.0,Rugi
+Honda Activa 5G,46000.0,2018,Individual,1st owner,10000.0,57557.0,7,Baru,65000.0,-19000.0,Rugi
+Yamaha Fascino 110,55000.0,2019,Individual,1st owner,7000.0,57112.0,6,Baru,75000.0,-20000.0,Rugi
+Bajaj V15,40000.0,2016,Individual,1st owner,34000.0,67187.0,9,Baru,50000.0,-10000.0,Rugi
+Hero Honda Passion PRO [2012],25000.0,2012,Individual,2nd owner,20000.0,72752.5,13,Lama,26000.0,-1000.0,Rugi
+Honda Activa [2000-2015],25000.0,2012,Individual,1st owner,38000.0,50267.0,13,Lama,30000.0,-5000.0,Rugi
+Bajaj Xcd,15000.0,2008,Individual,1st owner,100000.0,72752.5,17,Lama,25000.0,-10000.0,Rugi
+Bajaj Pulsar NS160,70000.0,2018,Individual,1st owner,20000.0,72752.5,7,Baru,65000.0,5000.0,Untung
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,240000.0,92210.0,8,Baru,55000.0,15000.0,Untung
+Yamaha RXG,25000.0,1997,Individual,1st owner,45354.0,72752.5,28,Lama,17500.0,7500.0,Untung
+TVS Streak,10000.0,2009,Individual,1st owner,100000.0,72752.5,16,Lama,23000.0,-13000.0,Rugi
+Bajaj Pulsar RS 200,80000.0,2015,Individual,1st owner,32000.0,72752.5,10,Lama,45000.0,35000.0,Untung
+Yamaha Alpha,25000.0,2015,Individual,2nd owner,14000.0,54253.0,10,Lama,30000.0,-5000.0,Rugi
+Honda Livo,35000.0,2016,Individual,1st owner,70000.0,72752.5,9,Baru,50000.0,-15000.0,Rugi
+Mahindra Gusto,25000.0,2016,Individual,1st owner,13500.0,51185.0,9,Baru,50000.0,-25000.0,Rugi
+Bajaj Discover 125,26000.0,2012,Individual,1st owner,75000.0,57549.0,13,Lama,30000.0,-4000.0,Rugi
+Hero Glamour 125,15000.0,2011,Individual,1st owner,75000.0,61600.0,14,Lama,25000.0,-10000.0,Rugi
+Honda CB Unicorn 160,50000.0,2017,Individual,1st owner,52000.0,77545.0,8,Baru,55000.0,-5000.0,Rugi
+Hero Pleasure,26500.0,2013,Individual,1st owner,18860.0,49600.0,12,Lama,36500.0,-10000.0,Rugi
+Honda CB Hornet 160R,80000.0,2016,Individual,1st owner,100000.0,92661.0,9,Baru,50000.0,30000.0,Untung
+Bajaj CT 100,30000.0,2016,Individual,1st owner,38500.0,72752.5,9,Baru,50000.0,-20000.0,Rugi
+Yamaha FZ S V 2.0,90000.0,2018,Individual,1st owner,10500.0,87042.0,7,Baru,65000.0,25000.0,Untung
+Bajaj Pulsar 180,85000.0,2016,Individual,1st owner,35000.0,85011.0,9,Baru,50000.0,35000.0,Untung
+Hero Glamour 125,54000.0,2013,Individual,1st owner,17000.0,61600.0,12,Lama,36500.0,17500.0,Untung
+Bajaj CT 100,42000.0,2019,Individual,1st owner,2900.0,72752.5,6,Baru,75000.0,-33000.0,Rugi
+Bajaj Discover 100 T,25000.0,2014,Individual,1st owner,30000.0,47032.0,11,Lama,40000.0,-15000.0,Rugi
+TVS Star City Plus,50000.0,2016,Individual,2nd owner,14000.0,72752.5,9,Baru,45000.0,5000.0,Untung
+Honda CB Unicorn 150,55000.0,2014,Individual,1st owner,10000.0,74295.0,11,Lama,40000.0,15000.0,Untung
+Hero Passion PRO TR,35000.0,2014,Individual,1st owner,9556.0,54586.0,11,Lama,40000.0,-5000.0,Rugi
+Honda CB Shine SP,50000.0,2018,Individual,1st owner,37000.0,64750.0,7,Baru,65000.0,-15000.0,Rugi
+Bajaj V15,45000.0,2015,Individual,1st owner,2700.0,65626.0,10,Lama,45000.0,0.0,Netral
+Bajaj V15,45000.0,2016,Individual,1st owner,36000.0,67187.0,9,Baru,50000.0,-5000.0,Rugi
+Bajaj Discover 100,28000.0,2015,Individual,2nd owner,52000.0,42859.0,10,Lama,30000.0,-2000.0,Rugi
+Royal Enfield Electra 4 S,80000.0,2013,Individual,1st owner,46000.0,72752.5,12,Lama,36500.0,43500.0,Untung
+KTM 200 Duke,130000.0,2016,Individual,1st owner,12000.0,72752.5,9,Baru,50000.0,80000.0,Untung
+Bajaj Pulsar 220F,120000.0,2019,Individual,1st owner,6500.0,72752.5,6,Baru,75000.0,45000.0,Untung
+Suzuki GS150R,27000.0,2012,Individual,1st owner,14100.0,70851.0,13,Lama,30000.0,-3000.0,Rugi
+Honda Shine,30000.0,2014,Individual,1st owner,40000.0,72752.5,11,Lama,40000.0,-10000.0,Rugi
+Honda CB Unicorn Dazzler,50000.0,2010,Individual,1st owner,75000.0,71757.0,15,Lama,25000.0,25000.0,Untung
+Honda Livo,45000.0,2018,Individual,1st owner,10000.0,72752.5,7,Baru,65000.0,-20000.0,Rugi
+Honda Aviator,28000.0,2009,Individual,1st owner,29625.0,59183.0,16,Lama,23000.0,5000.0,Untung
+Honda Activa [2000-2015],6000.0,2006,Individual,2nd owner,35000.0,50267.0,19,Lama,25000.0,-19000.0,Rugi
+Hero Hunk,35000.0,2016,Individual,1st owner,32000.0,78513.0,9,Baru,50000.0,-15000.0,Rugi
+Honda Activa 125,30000.0,2014,Individual,1st owner,20000.0,72752.5,11,Lama,40000.0,-10000.0,Rugi
+Bajaj Discover 110,15000.0,2007,Individual,1st owner,70000.0,52710.0,18,Lama,20000.0,-5000.0,Rugi
+Hero Xtreme [2013-2014],45000.0,2013,Individual,1st owner,57000.0,75936.0,12,Lama,36500.0,8500.0,Untung
+TVS Victor GLX,18000.0,2005,Individual,1st owner,11000.0,72752.5,20,Lama,15000.0,3000.0,Untung
+Bajaj Pulsar NS200,85000.0,2018,Individual,1st owner,17500.0,72752.5,7,Baru,65000.0,20000.0,Untung
+Honda Aviator,30000.0,2014,Individual,1st owner,7000.0,59183.0,11,Lama,40000.0,-10000.0,Rugi
+Bajaj Platina 100,40000.0,2018,Individual,1st owner,17500.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+TVS Sport,34000.0,2018,Individual,1st owner,25000.0,72752.5,7,Baru,65000.0,-31000.0,Rugi
+Hero Honda Passion Plus,8000.0,2003,Individual,1st owner,53500.0,72752.5,22,Lama,8000.0,0.0,Netral
+Bajaj V15,70000.0,2018,Individual,1st owner,15000.0,67187.0,7,Baru,65000.0,5000.0,Untung
+Honda Dio,50000.0,2016,Individual,1st owner,8000.0,72752.5,9,Baru,50000.0,0.0,Netral
+Honda Dream Yuga,35000.0,2015,Individual,1st owner,39448.0,56147.0,10,Lama,45000.0,-10000.0,Rugi
+Hero Honda Splendor Plus,20000.0,2006,Individual,1st owner,75000.0,72752.5,19,Lama,17600.0,2400.0,Untung
+Bajaj Pulsar 150,50000.0,2012,Individual,1st owner,28000.0,72752.5,13,Lama,30000.0,20000.0,Untung
+Bajaj Discover 135,37000.0,2008,Individual,1st owner,62000.0,72752.5,17,Lama,25000.0,12000.0,Untung
+Honda Livo,69000.0,2018,Individual,1st owner,12000.0,72752.5,7,Baru,65000.0,4000.0,Untung
+Hero Honda Splendor NXG,28000.0,2012,Individual,1st owner,49999.0,72752.5,13,Lama,30000.0,-2000.0,Rugi
+Bajaj Discover 125,25000.0,2011,Individual,1st owner,70000.0,57549.0,14,Lama,25000.0,0.0,Netral
+Yamaha FZ V 2.0,60000.0,2018,Individual,1st owner,25000.0,81508.0,7,Baru,65000.0,-5000.0,Rugi
+Yamaha SZ-S,50000.0,2014,Individual,1st owner,20000.0,72532.0,11,Lama,40000.0,10000.0,Untung
+Bajaj Discover 125 M,30000.0,2014,Individual,1st owner,45000.0,49146.0,11,Lama,40000.0,-10000.0,Rugi
+Yamaha FZ S [2012-2016],60000.0,2014,Individual,1st owner,68000.0,79432.0,11,Lama,40000.0,20000.0,Untung
+Honda Activa [2000-2015],23000.0,2009,Individual,1st owner,95000.0,50267.0,16,Lama,23000.0,0.0,Netral
+Bajaj Xcd,20000.0,2009,Individual,1st owner,16000.0,72752.5,16,Lama,23000.0,-3000.0,Rugi
+Bajaj Avenger Street 160,80000.0,2019,Individual,1st owner,5000.0,72752.5,6,Baru,75000.0,5000.0,Untung
+Royal Enfield Electra 5 S,99000.0,2006,Individual,2nd owner,36000.0,72752.5,19,Lama,25000.0,74000.0,Untung
+TVS Apache RTR 200 4V,90000.0,2018,Individual,1st owner,70000.0,72752.5,7,Baru,65000.0,25000.0,Untung
+Hero Honda Splendor Plus,20000.0,2005,Individual,1st owner,27370.0,72752.5,20,Lama,15000.0,5000.0,Untung
+Hero Glamour 125,50000.0,2017,Individual,1st owner,8600.0,61600.0,8,Baru,55000.0,-5000.0,Rugi
+TVS Victor GLX,27000.0,2002,Individual,1st owner,49000.0,72752.5,23,Lama,27000.0,0.0,Netral
+Honda Grazia,60000.0,2018,Individual,1st owner,16000.0,72752.5,7,Baru,65000.0,-5000.0,Rugi
+Bajaj Pulsar 150 [2001-2011],12000.0,2007,Individual,2nd owner,100000.0,72752.5,18,Lama,18000.0,-6000.0,Rugi
+Hero Xtreme 2014,50000.0,2014,Individual,1st owner,10000.0,72973.0,11,Lama,40000.0,10000.0,Untung
+Hero Pleasure,20000.0,2012,Individual,2nd owner,30000.0,49600.0,13,Lama,26000.0,-6000.0,Rugi
+Hero Passion XPro,45000.0,2018,Individual,1st owner,7000.0,58900.0,7,Baru,65000.0,-20000.0,Rugi
+Hero Super Splendor,40000.0,2013,Individual,1st owner,68000.0,72752.5,12,Lama,36500.0,3500.0,Untung
+Yamaha FZ S [2012-2016],45000.0,2016,Individual,2nd owner,20000.0,79432.0,9,Baru,45000.0,0.0,Netral
+Honda Activa [2000-2015],25000.0,2015,Individual,1st owner,25000.0,50267.0,10,Lama,45000.0,-20000.0,Rugi
+Hero Glamour FI,75000.0,2019,Individual,1st owner,8900.0,71150.0,6,Baru,75000.0,0.0,Netral
+Hero Honda Passion Plus,25000.0,2007,Individual,1st owner,70000.0,72752.5,18,Lama,20000.0,5000.0,Untung
+Hero Splendor Plus,25000.0,2006,Individual,2nd owner,40000.0,72752.5,19,Lama,25000.0,0.0,Netral
+Hero Xpulse 200,100000.0,2019,Individual,1st owner,8500.0,107500.0,6,Baru,75000.0,25000.0,Untung
+Honda CB Unicorn 150,30000.0,2012,Individual,1st owner,32000.0,74295.0,13,Lama,30000.0,0.0,Netral
+Bajaj Discover 135,25000.0,2010,Individual,1st owner,55000.0,72752.5,15,Lama,25000.0,0.0,Netral
+Hero Honda Splendor,10000.0,2006,Individual,1st owner,75000.0,72752.5,19,Lama,17600.0,-7600.0,Rugi
+Hero Honda CD Deluxe,25000.0,2008,Individual,3rd owner,65000.0,72752.5,17,Lama,22500.0,2500.0,Untung
+Royal Enfield Electra Twinspark,120000.0,2016,Individual,1st owner,345000.0,72752.5,9,Baru,50000.0,70000.0,Untung
+Honda Dream Neo,42000.0,2014,Individual,1st owner,21000.0,53415.0,11,Lama,40000.0,2000.0,Untung
+Hero Maestro,30000.0,2013,Individual,1st owner,60000.0,49412.0,12,Lama,36500.0,-6500.0,Rugi
+Honda CBR150 R,77000.0,2014,Individual,1st owner,38000.0,132513.0,11,Lama,40000.0,37000.0,Untung
+Honda CB Unicorn Dazzler,25000.0,2011,Individual,1st owner,40000.0,71757.0,14,Lama,25000.0,0.0,Netral
+TVS Apache [2006],15000.0,2006,Individual,1st owner,40000.0,72752.5,19,Lama,17600.0,-2600.0,Rugi
+Hero Passion XPro,25000.0,2013,Individual,1st owner,25000.0,59640.0,12,Lama,36500.0,-11500.0,Rugi
+Honda Activa 5G,50000.0,2018,Individual,1st owner,25000.0,57957.0,7,Baru,65000.0,-15000.0,Rugi
+Honda Activa i,30000.0,2014,Individual,1st owner,25000.0,53900.0,11,Lama,40000.0,-10000.0,Rugi
+TVS Apache RTR 200 4V,125000.0,2019,Individual,1st owner,3000.0,72752.5,6,Baru,75000.0,50000.0,Untung
+Hero Honda CBZ extreme,35000.0,2011,Individual,1st owner,28000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Suzuki Gixxer [2014-2018],45000.0,2015,Individual,1st owner,40000.0,78316.0,10,Lama,45000.0,0.0,Netral
+Hero Xpulse 200,98000.0,2019,Individual,1st owner,8500.0,107500.0,6,Baru,75000.0,23000.0,Untung
+Bajaj Pulsar 150,75000.0,2017,Individual,1st owner,30000.0,72752.5,8,Baru,55000.0,20000.0,Untung
+Bajaj Pulsar AS150,55000.0,2017,Individual,2nd owner,20000.0,80821.0,8,Baru,55500.0,-500.0,Rugi
+Bajaj Platina 100,25000.0,2013,Individual,1st owner,30000.0,72752.5,12,Lama,36500.0,-11500.0,Rugi
+Honda CB Twister,70000.0,2014,Individual,1st owner,12566.0,49150.0,11,Lama,40000.0,30000.0,Untung
+Suzuki SlingShot,24000.0,2011,Individual,1st owner,17000.0,72752.5,14,Lama,25000.0,-1000.0,Rugi
+TVS Apache RTR 160,70000.0,2018,Individual,1st owner,17000.0,72752.5,7,Baru,65000.0,5000.0,Untung
+Bajaj V12,45000.0,2017,Individual,1st owner,35000.0,58906.0,8,Baru,55000.0,-10000.0,Rugi
+Hero Karizma 2014,25000.0,2015,Individual,1st owner,40000.0,86744.0,10,Lama,45000.0,-20000.0,Rugi
+Yamaha Fascino 110,38000.0,2016,Individual,1st owner,37000.0,54500.0,9,Baru,50000.0,-12000.0,Rugi
+Honda CB Unicorn 160,45000.0,2015,Individual,1st owner,15000.0,77545.0,10,Lama,45000.0,0.0,Netral
+Yamaha Gladiator,15000.0,2009,Individual,1st owner,46000.0,72752.5,16,Lama,23000.0,-8000.0,Rugi
+Hero Honda Glamour,45000.0,2012,Individual,1st owner,75000.0,72752.5,13,Lama,30000.0,15000.0,Untung
+Bajaj Discover 100,22000.0,2014,Individual,1st owner,14289.0,42859.0,11,Lama,40000.0,-18000.0,Rugi
+Mahindra Gusto,30000.0,2015,Individual,2nd owner,20000.0,51185.0,10,Lama,30000.0,0.0,Netral
+Royal Enfield Thunderbird 350,100000.0,2012,Individual,1st owner,28000.0,72752.5,13,Lama,30000.0,70000.0,Untung
+Royal Enfield Classic 350,100000.0,2014,Individual,1st owner,19000.0,72752.5,11,Lama,40000.0,60000.0,Untung
+Bajaj Pulsar 150,60000.0,2017,Individual,1st owner,28450.0,72752.5,8,Baru,55000.0,5000.0,Untung
+Royal Enfield Electra Twinspark,100000.0,2014,Individual,1st owner,31500.0,72752.5,11,Lama,40000.0,60000.0,Untung
+Bajaj Pulsar 150,40000.0,2016,Individual,1st owner,28000.0,72752.5,9,Baru,50000.0,-10000.0,Rugi
+Bajaj Pulsar 150,21000.0,2007,Individual,1st owner,100000.0,72752.5,18,Lama,20000.0,1000.0,Untung
+Hero HF Deluxe,40000.0,2018,Individual,1st owner,16000.0,72752.5,7,Baru,65000.0,-25000.0,Rugi
+Honda Activa [2000-2015],25000.0,2007,Individual,1st owner,17860.0,50267.0,18,Lama,20000.0,5000.0,Untung
+Yamaha FZ S [2012-2016],45000.0,2015,Individual,1st owner,24000.0,79432.0,10,Lama,45000.0,0.0,Netral
+Bajaj Avenger Cruise 220,75000.0,2016,Individual,1st owner,10950.0,72752.5,9,Baru,50000.0,25000.0,Untung
+Honda Dio,45000.0,2017,Individual,1st owner,35850.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+Honda Activa i [2016-2017],35000.0,2016,Individual,1st owner,29000.0,53436.0,9,Baru,50000.0,-15000.0,Rugi
+Royal Enfield Bullet 350 [2007-2011],60000.0,2001,Individual,2nd owner,4000.0,72752.5,24,Lama,60000.0,0.0,Netral
+Yamaha FZ V 2.0,60000.0,2016,Individual,1st owner,45420.0,81508.0,9,Baru,50000.0,10000.0,Untung
+Royal Enfield Classic 350,130000.0,2018,Individual,2nd owner,35000.0,72752.5,7,Baru,107500.0,22500.0,Untung
+Honda CB Shine SP,42000.0,2017,Individual,1st owner,19800.0,64750.0,8,Baru,55000.0,-13000.0,Rugi
+Bajaj V15,76000.0,2018,Individual,1st owner,23000.0,65626.0,7,Baru,65000.0,11000.0,Untung
+Hero CBZ,40000.0,2014,Individual,1st owner,35000.0,72752.5,11,Lama,40000.0,0.0,Netral
+Hero Splendor Plus,65000.0,2018,Individual,1st owner,7500.0,72752.5,7,Baru,65000.0,0.0,Netral
+Bajaj Discover 100 T,20000.0,2013,Individual,1st owner,20000.0,47032.0,12,Lama,36500.0,-16500.0,Rugi
+Honda CB Hornet 160R,75000.0,2016,Individual,1st owner,72000.0,92661.0,9,Baru,50000.0,25000.0,Untung
+Honda CB Hornet 160R,70000.0,2018,Individual,1st owner,7000.0,92661.0,7,Baru,65000.0,5000.0,Untung
+TVS Apache RTR 160 4V,105000.0,2019,Individual,1st owner,6000.0,72752.5,6,Baru,75000.0,30000.0,Untung
+Honda CB Shine SP,50000.0,2017,Individual,1st owner,34300.0,62317.0,8,Baru,55000.0,-5000.0,Rugi
+Royal Enfield Classic 350,120000.0,2017,Individual,1st owner,7199.0,72752.5,8,Baru,55000.0,65000.0,Untung
+Bajaj Pulsar 180,25000.0,2011,Individual,1st owner,43000.0,85011.0,14,Lama,25000.0,0.0,Netral
+TVS XL 100,30000.0,2017,Individual,1st owner,8000.0,30490.0,8,Baru,55000.0,-25000.0,Rugi
+Hero Super Splendor,50000.0,2017,Individual,1st owner,9999.0,72752.5,8,Baru,55000.0,-5000.0,Rugi
+Hero Honda CBZ extreme,25000.0,2007,Individual,1st owner,80000.0,72752.5,18,Lama,20000.0,5000.0,Untung
+Bajaj Pulsar 180,50000.0,2014,Individual,1st owner,30000.0,85011.0,11,Lama,40000.0,10000.0,Untung
+Bajaj Discover 150,35000.0,2015,Individual,1st owner,12000.0,54299.0,10,Lama,45000.0,-10000.0,Rugi
+Bajaj Pulsar 180,30000.0,2009,Individual,1st owner,17500.0,85011.0,16,Lama,23000.0,7000.0,Untung
+Honda Shine,37000.0,2016,Individual,1st owner,45000.0,72752.5,9,Baru,50000.0,-13000.0,Rugi
+Honda CB Unicorn 150,42000.0,2013,Individual,1st owner,38000.0,74295.0,12,Lama,36500.0,5500.0,Untung
+Royal Enfield Himalayan,119000.0,2016,Individual,1st owner,19800.0,72752.5,9,Baru,50000.0,69000.0,Untung
+Royal Enfield Classic 350,130000.0,1993,Individual,2nd owner,10000.0,72752.5,32,Lama,130000.0,0.0,Netral
+Hero Honda Passion Plus,22000.0,2008,Individual,2nd owner,85000.0,72752.5,17,Lama,27500.0,-5500.0,Rugi
+Hero Honda Splendor Plus,15000.0,2007,Individual,1st owner,70000.0,72752.5,18,Lama,20000.0,-5000.0,Rugi
+Royal Enfield Continental GT [2013 - 2018],110000.0,2014,Individual,1st owner,12077.0,208902.0,11,Lama,40000.0,70000.0,Untung
+Bajaj Pulsar 220F,45000.0,2011,Individual,1st owner,40000.0,72752.5,14,Lama,25000.0,20000.0,Untung
+Bajaj Avenger Street 220,75000.0,2018,Individual,1st owner,12000.0,95955.0,7,Baru,65000.0,10000.0,Untung
+Honda Activa 125 [2016-2017],50000.0,2017,Individual,1st owner,27000.0,61545.0,8,Baru,55000.0,-5000.0,Rugi
+Honda Shine,30000.0,2013,Individual,1st owner,93000.0,72752.5,12,Lama,36500.0,-6500.0,Rugi
+Bajaj Discover 150F,30000.0,2015,Individual,1st owner,12000.0,64071.0,10,Lama,45000.0,-15000.0,Rugi
+Bajaj Pulsar 150 [2001-2011],22000.0,2011,Individual,1st owner,36000.0,72752.5,14,Lama,25000.0,-3000.0,Rugi
+Hero Karizma ZMR,75000.0,2015,Individual,1st owner,11000.0,108000.0,10,Lama,45000.0,30000.0,Untung
+Honda Dream Yuga,45000.0,2017,Individual,1st owner,26000.0,56147.0,8,Baru,55000.0,-10000.0,Rugi
+Hero Glamour 125,35000.0,2014,Individual,1st owner,450000.0,61600.0,11,Lama,40000.0,-5000.0,Rugi
+Honda Activa [2000-2015],35000.0,2012,Individual,1st owner,29000.0,50267.0,13,Lama,30000.0,5000.0,Untung
+Bajaj CT 100,25000.0,2017,Individual,1st owner,45000.0,72752.5,8,Baru,55000.0,-30000.0,Rugi
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,13000.0,92210.0,8,Baru,55000.0,15000.0,Untung
+Hero CD Dawn,10000.0,2005,Individual,1st owner,48000.0,72752.5,20,Lama,15000.0,-5000.0,Rugi
+Bajaj Discover 100,24000.0,2014,Individual,1st owner,31000.0,42859.0,11,Lama,40000.0,-16000.0,Rugi
+Honda Shine,42000.0,2017,Individual,1st owner,25000.0,72752.5,8,Baru,55000.0,-13000.0,Rugi
+TVS Max DLX,26000.0,2002,Individual,2nd owner,28000.0,72752.5,23,Lama,17500.0,8500.0,Untung
+Honda Dio,60000.0,2018,Individual,1st owner,11000.0,72752.5,7,Baru,65000.0,-5000.0,Rugi
+Bajaj Pulsar 180,72000.0,2017,Dealer,1st owner,7850.0,85011.0,8,Baru,55000.0,17000.0,Untung
+Royal Enfield Thunderbird 350,120000.0,2015,Individual,1st owner,10000.0,72752.5,10,Lama,45000.0,75000.0,Untung
+Royal Enfield Thunderbird 350,59000.0,2005,Individual,2nd owner,40000.0,72752.5,20,Lama,14700.0,44300.0,Untung
+Hero Pleasure [2005-2015],30000.0,2013,Individual,1st owner,25000.0,46779.0,12,Lama,36500.0,-6500.0,Rugi
+TVS Victor,18000.0,2004,Individual,1st owner,46700.0,54852.0,21,Lama,15000.0,3000.0,Untung
+Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,12000.0,72752.5,14,Lama,25000.0,10000.0,Untung
+Honda Dream Yuga,30000.0,2015,Individual,2nd owner,46070.0,56147.0,10,Lama,30000.0,0.0,Netral
+Bajaj Pulsar 150,35000.0,2009,Individual,1st owner,14500.0,72752.5,16,Lama,23000.0,12000.0,Untung
+Bajaj Pulsar 150 [2001-2011],35000.0,2008,Individual,1st owner,70000.0,72752.5,17,Lama,25000.0,10000.0,Untung
+Hero Honda Passion Plus,25000.0,2008,Dealer,2nd owner,100000.0,72752.5,17,Lama,27500.0,-2500.0,Rugi
+Yamaha YZF R15 [2011-2018],80000.0,2013,Dealer,1st owner,30000.0,118997.0,12,Lama,36500.0,43500.0,Untung
+Hero Honda Splendor Plus,20000.0,2004,Individual,2nd owner,127000.0,72752.5,21,Lama,20000.0,0.0,Netral
+Hero Karizma ZMR,43000.0,2012,Individual,2nd owner,63000.0,108000.0,13,Lama,26000.0,17000.0,Untung
+Hero Honda Splendor Plus,20000.0,2010,Individual,2nd owner,30000.0,72752.5,15,Lama,25000.0,-5000.0,Rugi
+Yo Style,20000.0,2011,Individual,1st owner,10000.0,37675.0,14,Lama,25000.0,-5000.0,Rugi
+Hero Splendor iSmart,40000.0,2015,Individual,1st owner,10000.0,52271.0,10,Lama,45000.0,-5000.0,Rugi
+Hero Super Splendor,30000.0,2011,Individual,1st owner,89000.0,72752.5,14,Lama,25000.0,5000.0,Untung
+Bajaj Discover 100,21000.0,2009,Individual,1st owner,50000.0,42859.0,16,Lama,23000.0,-2000.0,Rugi
+Yamaha Fazer [2009-2016],35000.0,2011,Individual,1st owner,15500.0,84751.0,14,Lama,25000.0,10000.0,Untung
+Bajaj Discover 125,23000.0,2011,Individual,1st owner,66000.0,57549.0,14,Lama,25000.0,-2000.0,Rugi
+Hero Super Splendor,40000.0,2017,Individual,2nd owner,80000.0,72752.5,8,Baru,55500.0,-15500.0,Rugi
+Honda Shine,40000.0,2011,Individual,1st owner,8600.0,72752.5,14,Lama,25000.0,15000.0,Untung
+Bajaj Discover 125 M,45000.0,2014,Individual,1st owner,40000.0,47186.0,11,Lama,40000.0,5000.0,Untung
+Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,1st owner,25000.0,80435.0,9,Baru,50000.0,10000.0,Untung
+Yamaha Fazer [2009-2016],40000.0,2013,Individual,1st owner,34500.0,84751.0,12,Lama,36500.0,3500.0,Untung
+Hero Passion X Pro [2016-2017],42000.0,2016,Individual,1st owner,15500.0,59095.0,9,Baru,50000.0,-8000.0,Rugi
+Honda Activa [2000-2015],18000.0,2011,Individual,1st owner,28000.0,50267.0,14,Lama,25000.0,-7000.0,Rugi
+TVS Star City,15000.0,2006,Individual,1st owner,40000.0,46575.0,19,Lama,17600.0,-2600.0,Rugi
+Hero Honda Hunk,45000.0,2013,Individual,1st owner,40000.0,72752.5,12,Lama,36500.0,8500.0,Untung
+TVS Star City,25000.0,2016,Individual,1st owner,50000.0,47108.0,9,Baru,50000.0,-25000.0,Rugi
+Bajaj Pulsar 150,70000.0,2017,Individual,1st owner,24000.0,72752.5,8,Baru,55000.0,15000.0,Untung
+Bajaj Discover 100,23000.0,2012,Individual,1st owner,50000.0,42859.0,13,Lama,30000.0,-7000.0,Rugi
+TVS Victor,10000.0,2005,Individual,1st owner,55000.0,54852.0,20,Lama,15000.0,-5000.0,Rugi
+Hero Honda Splendor Plus,25000.0,2012,Individual,1st owner,70000.0,72752.5,13,Lama,30000.0,-5000.0,Rugi
+Honda Aviator,25000.0,2012,Individual,2nd owner,12000.0,59183.0,13,Lama,26000.0,-1000.0,Rugi
+Bajaj Pulsar 180,50000.0,2010,Individual,1st owner,70000.0,85011.0,15,Lama,25000.0,25000.0,Untung
+Bajaj Avenger [2015],60000.0,2015,Individual,2nd owner,16000.0,75502.0,10,Lama,30000.0,30000.0,Untung
+Hero CD Dawn,35000.0,2014,Individual,1st owner,38000.0,72752.5,11,Lama,40000.0,-5000.0,Rugi
+Hero Maestro,50000.0,2016,Individual,1st owner,100000.0,49412.0,9,Baru,50000.0,0.0,Netral
+Honda CB Shine SP,50000.0,2016,Individual,1st owner,45000.0,64750.0,9,Baru,50000.0,0.0,Netral
+Hero Honda CD Deluxe,25500.0,2012,Individual,1st owner,28990.0,72752.5,13,Lama,30000.0,-4500.0,Rugi
+Hero Honda Hunk,35000.0,2010,Individual,1st owner,13000.0,72752.5,15,Lama,25000.0,10000.0,Untung
+Hero Honda CD Deluxe,20000.0,2005,Individual,1st owner,15000.0,72752.5,20,Lama,15000.0,5000.0,Untung
+Honda Activa 3G,40000.0,2016,Individual,1st owner,60000.0,54605.0,9,Baru,50000.0,-10000.0,Rugi
+Bajaj Pulsar 135 LS,45000.0,2017,Individual,1st owner,22000.0,64589.0,8,Baru,55000.0,-10000.0,Rugi
+Bajaj Pulsar 150 [2001-2011],30000.0,2008,Individual,1st owner,19500.0,72752.5,17,Lama,25000.0,5000.0,Untung
+Hero Pleasure,30000.0,2013,Individual,1st owner,25000.0,49600.0,12,Lama,36500.0,-6500.0,Rugi
+Hero Honda CBZ extreme,30000.0,2011,Individual,3rd owner,70000.0,72752.5,14,Lama,30000.0,0.0,Netral
+Bajaj Pulsar 150,40000.0,2014,Individual,2nd owner,65000.0,72752.5,11,Lama,35000.0,5000.0,Untung
+Honda CB Twister,25000.0,2012,Individual,1st owner,86000.0,53857.0,13,Lama,30000.0,-5000.0,Rugi
+Honda Livo,45000.0,2017,Individual,1st owner,30000.0,72752.5,8,Baru,55000.0,-10000.0,Rugi
+Bajaj Pulsar AS200,65000.0,2015,Individual,1st owner,33000.0,92074.0,10,Lama,45000.0,20000.0,Untung
+Honda Activa 3G,40000.0,2015,Individual,1st owner,36000.0,54605.0,10,Lama,45000.0,-5000.0,Rugi
+Hero Honda Hunk,40000.0,2010,Individual,1st owner,41000.0,72752.5,15,Lama,25000.0,15000.0,Untung
+Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,28000.0,83340.0,8,Baru,55000.0,15000.0,Untung
+Hero HF Deluxe,35000.0,2018,Individual,1st owner,15000.0,72752.5,7,Baru,65000.0,-30000.0,Rugi
+Hero Splendor PRO,35000.0,2015,Individual,1st owner,35280.0,51994.0,10,Lama,45000.0,-10000.0,Rugi
+Bajaj Boxer,15000.0,2004,Individual,1st owner,18000.0,72752.5,21,Lama,15000.0,0.0,Netral
+Royal Enfield Electra 5 S,99000.0,2012,Individual,1st owner,28000.0,72752.5,13,Lama,30000.0,69000.0,Untung
+Royal Enfield Electra 5 S,90000.0,2012,Individual,1st owner,40000.0,72752.5,13,Lama,30000.0,60000.0,Untung
+Hero Honda Hunk,20000.0,2010,Individual,1st owner,17000.0,72752.5,15,Lama,25000.0,-5000.0,Rugi
+Hero Ignitor,36000.0,2016,Individual,1st owner,23000.0,65599.0,9,Baru,50000.0,-14000.0,Rugi
+Bajaj Discover 100 M,32000.0,2014,Individual,1st owner,30000.0,44756.0,11,Lama,40000.0,-8000.0,Rugi
+Honda Activa 3G,50000.0,2016,Individual,1st owner,6000.0,54605.0,9,Baru,50000.0,0.0,Netral
+Bajaj Pulsar 135 LS,50000.0,2015,Individual,1st owner,48000.0,64589.0,10,Lama,45000.0,5000.0,Untung
+Bajaj Pulsar 220 DTS-i,60000.0,2014,Individual,1st owner,16000.0,72752.5,11,Lama,40000.0,20000.0,Untung
+Hero Honda CBZ extreme,40000.0,2009,Individual,1st owner,50000.0,72752.5,16,Lama,23000.0,17000.0,Untung
+Hero Honda CBZ extreme,35000.0,2012,Individual,1st owner,60000.0,72752.5,13,Lama,30000.0,5000.0,Untung
+Royal Enfield Thunder 350,125000.0,2015,Individual,1st owner,15000.0,150000.0,10,Lama,45000.0,80000.0,Untung
+Royal Enfield Thunder 350,120000.0,2018,Individual,1st owner,18000.0,150000.0,7,Baru,65000.0,55000.0,Untung
+Royal Enfield Classic 350,120000.0,2019,Individual,1st owner,11000.0,147000.0,6,Baru,75000.0,45000.0,Untung
+KTM RC200,120000.0,2018,Individual,1st owner,6000.0,178000.0,7,Baru,65000.0,55000.0,Untung
+Royal Enfield Thunder 350,115000.0,2018,Individual,1st owner,8700.0,150000.0,7,Baru,65000.0,50000.0,Untung
+KTM 390 Duke ,115000.0,2016,Individual,1st owner,7000.0,240000.0,9,Baru,50000.0,65000.0,Untung
+Mahindra Mojo XT300,115000.0,2018,Individual,1st owner,35000.0,140000.0,7,Baru,65000.0,50000.0,Untung
+Royal Enfield Classic 350,115000.0,2017,Individual,1st owner,17000.0,147000.0,8,Baru,55000.0,60000.0,Untung
+Royal Enfield Classic 350,111000.0,2017,Individual,1st owner,17500.0,147000.0,8,Baru,55000.0,56000.0,Untung
+Royal Enfield Classic 350,110000.0,2015,Individual,1st owner,33000.0,147000.0,10,Lama,45000.0,65000.0,Untung
+Royal Enfield Thunder 500,110000.0,2017,Individual,1st owner,14000.0,190000.0,8,Baru,55000.0,55000.0,Untung
+Royal Enfield Classic 350,110000.0,2017,Individual,1st owner,26000.0,147000.0,8,Baru,55000.0,55000.0,Untung
+Royal Enfield Thunder 500,105000.0,2015,Individual,1st owner,5400.0,190000.0,10,Lama,45000.0,60000.0,Untung
+Bajaj Pulsar RS200,105000.0,2018,Individual,1st owner,5700.0,126000.0,7,Baru,65000.0,40000.0,Untung
+Royal Enfield Thunder 350,105000.0,2013,Individual,1st owner,6900.0,150000.0,12,Lama,36500.0,68500.0,Untung
+Royal Enfield Bullet 350,105000.0,2018,Individual,1st owner,6000.0,117000.0,7,Baru,65000.0,40000.0,Untung
+Royal Enfield Classic 350,100000.0,2015,Individual,1st owner,46500.0,147000.0,10,Lama,45000.0,55000.0,Untung
+Royal Enfield Classic 500,95000.0,2014,Individual,1st owner,11500.0,175000.0,11,Lama,40000.0,55000.0,Untung
+Royal Enfield Classic 500,90000.0,2011,Individual,1st owner,40000.0,175000.0,14,Lama,25000.0,65000.0,Untung
+Bajaj Avenger 220,90000.0,2019,Individual,1st owner,1300.0,95000.0,6,Baru,75000.0,15000.0,Untung
+Bajaj Avenger 150,75000.0,2018,Individual,1st owner,7000.0,80000.0,7,Baru,65000.0,10000.0,Untung
+Honda CB Hornet 160R,80000.0,2019,Individual,1st owner,3000.0,87000.0,6,Baru,75000.0,5000.0,Untung
+Yamaha FZ S V 2.0,78000.0,2019,Individual,1st owner,5000.0,84000.0,6,Baru,75000.0,3000.0,Untung
+Honda CB Hornet 160R,75000.0,2019,Individual,1st owner,11000.0,87000.0,6,Baru,75000.0,0.0,Netral
+Yamaha FZ 16,75000.0,2017,Individual,1st owner,18000.0,82000.0,8,Baru,55000.0,20000.0,Untung
+Bajaj Avenger 220,75000.0,2019,Individual,1st owner,3500.0,95000.0,6,Baru,75000.0,0.0,Netral
+Bajaj Avenger 220,72000.0,2018,Individual,1st owner,500.0,95000.0,7,Baru,65000.0,7000.0,Untung
+TVS Apache RTR 160,65000.0,2019,Individual,1st owner,11800.0,81000.0,6,Baru,75000.0,-10000.0,Rugi
+Bajaj Pulsar 150,65000.0,2017,Individual,1st owner,5000.0,74000.0,8,Baru,55000.0,10000.0,Untung
+Honda CBR 150,65000.0,2016,Individual,1st owner,23500.0,120000.0,9,Baru,50000.0,15000.0,Untung
+Hero Extreme,65000.0,2015,Individual,1st owner,16000.0,78700.0,10,Lama,45000.0,20000.0,Untung
+Honda CB Hornet 160R,60000.0,2018,Individual,1st owner,15000.0,87000.0,7,Baru,65000.0,-5000.0,Rugi
+Bajaj Avenger 220 dtsi,60000.0,2017,Individual,1st owner,16600.0,95000.0,8,Baru,55000.0,5000.0,Untung
+Honda CBR 150,60000.0,2015,Individual,1st owner,32000.0,120000.0,10,Lama,45000.0,15000.0,Untung
+Bajaj Avenger 150 street,60000.0,2018,Individual,1st owner,20000.0,80000.0,7,Baru,65000.0,-5000.0,Rugi
+Yamaha FZ  v 2.0,60000.0,2017,Individual,1st owner,29000.0,84000.0,8,Baru,55000.0,5000.0,Untung
+Yamaha FZ  v 2.0,60000.0,2018,Individual,1st owner,25000.0,84000.0,7,Baru,65000.0,-5000.0,Rugi
+Bajaj Pulsar  NS 200,60000.0,2016,Individual,1st owner,25000.0,99000.0,9,Baru,50000.0,10000.0,Untung
+TVS Apache RTR 160,60000.0,2014,Individual,1st owner,19000.0,81000.0,11,Lama,40000.0,20000.0,Untung
+Hero Extreme,55000.0,2016,Individual,1st owner,15000.0,78700.0,9,Baru,50000.0,5000.0,Untung
+Yamaha FZ S V 2.0,55000.0,2017,Individual,1st owner,58000.0,84000.0,8,Baru,55000.0,0.0,Netral
+Bajaj Pulsar 220 F,52000.0,2012,Individual,1st owner,45000.0,94000.0,13,Lama,30000.0,22000.0,Untung
+Bajaj Pulsar 220 F,51000.0,2018,Individual,1st owner,24000.0,94000.0,7,Baru,65000.0,-14000.0,Rugi
+TVS Apache RTR 180,50000.0,2013,Individual,1st owner,6000.0,82600.0,12,Lama,36500.0,13500.0,Untung
+Hero Passion X pro,50000.0,2018,Individual,1st owner,31000.0,55000.0,7,Baru,65000.0,-15000.0,Rugi
+Bajaj Pulsar NS 200,50000.0,2014,Individual,1st owner,13000.0,99000.0,11,Lama,40000.0,10000.0,Untung
+Bajaj Pulsar NS 200,50000.0,2015,Individual,1st owner,45000.0,99000.0,10,Lama,45000.0,5000.0,Untung
+Yamaha Fazer ,50000.0,2016,Individual,1st owner,8000.0,88000.0,9,Baru,50000.0,0.0,Netral
+Honda Activa 4G,48000.0,2019,Individual,1st owner,4300.0,51000.0,6,Baru,75000.0,-27000.0,Rugi
+TVS Sport ,48000.0,2019,Individual,1st owner,15000.0,52000.0,6,Baru,75000.0,-27000.0,Rugi
+Yamaha FZ S V 2.0,48000.0,2017,Individual,1st owner,23000.0,84000.0,8,Baru,55000.0,-7000.0,Rugi
+Honda Dream Yuga ,48000.0,2019,Individual,1st owner,8600.0,54000.0,6,Baru,75000.0,-27000.0,Rugi
+Honda Activa 4G,45000.0,2019,Individual,1st owner,4000.0,51000.0,6,Baru,75000.0,-30000.0,Rugi
+Bajaj Avenger Street 220,45000.0,2013,Individual,1st owner,24000.0,95000.0,12,Lama,36500.0,8500.0,Untung
+TVS Apache RTR 180,45000.0,2016,Individual,1st owner,23000.0,82600.0,9,Baru,50000.0,-5000.0,Rugi
+Bajaj Pulsar NS 200,45000.0,2014,Individual,1st owner,14500.0,99000.0,11,Lama,40000.0,5000.0,Untung
+Bajaj Avenger 220 dtsi,45000.0,2012,Individual,1st owner,27000.0,95000.0,13,Lama,30000.0,15000.0,Untung
+Hero Splender iSmart,45000.0,2018,Individual,1st owner,14000.0,54000.0,7,Baru,65000.0,-20000.0,Rugi
+Activa 3g,45000.0,2018,Individual,1st owner,500.0,54000.0,7,Baru,65000.0,-20000.0,Rugi
+Hero Passion Pro,45000.0,2018,Individual,1st owner,1000.0,55000.0,7,Baru,65000.0,-20000.0,Rugi
+TVS Apache RTR 160,42000.0,2016,Individual,1st owner,42000.0,81000.0,9,Baru,50000.0,-8000.0,Rugi
+Honda CB Trigger,42000.0,2015,Individual,1st owner,12000.0,73000.0,10,Lama,45000.0,-3000.0,Rugi
+Hero Splender iSmart,40000.0,2017,Individual,1st owner,14000.0,54000.0,8,Baru,55000.0,-15000.0,Rugi
+Yamaha FZ S ,40000.0,2014,Individual,1st owner,5500.0,83000.0,11,Lama,40000.0,0.0,Netral
+Hero Passion Pro,40000.0,2017,Individual,1st owner,6700.0,55000.0,8,Baru,55000.0,-15000.0,Rugi
+Bajaj Pulsar 135 LS,40000.0,2016,Individual,1st owner,13700.0,64000.0,9,Baru,50000.0,-10000.0,Rugi
+Activa 4g,40000.0,2019,Individual,1st owner,1300.0,51000.0,6,Baru,75000.0,-35000.0,Rugi
+Honda CB Unicorn,38000.0,2017,Individual,1st owner,38600.0,72000.0,8,Baru,55000.0,-17000.0,Rugi
+Hero Honda CBZ extreme,38000.0,2013,Individual,1st owner,75000.0,78700.0,12,Lama,36500.0,1500.0,Untung
+Honda Karizma,35000.0,2013,Individual,1st owner,30000.0,105000.0,12,Lama,36500.0,-1500.0,Rugi
+Honda Activa 125,35000.0,2018,Individual,1st owner,24000.0,57000.0,7,Baru,65000.0,-30000.0,Rugi
+TVS Jupyter,35000.0,2016,Individual,1st owner,19000.0,52000.0,9,Baru,50000.0,-15000.0,Rugi
+Honda Karizma,31000.0,2012,Individual,1st owner,213000.0,105000.0,13,Lama,30000.0,1000.0,Untung
+Hero Honda Passion Pro,30000.0,2014,Individual,1st owner,60000.0,51000.0,11,Lama,40000.0,-10000.0,Rugi
+Hero Splender Plus,30000.0,2018,Individual,1st owner,50000.0,48000.0,7,Baru,65000.0,-35000.0,Rugi
+Honda CB Shine,30000.0,2015,Individual,1st owner,30000.0,58000.0,10,Lama,45000.0,-15000.0,Rugi
+Bajaj Discover 100,27000.0,2015,Individual,1st owner,21000.0,47000.0,10,Lama,45000.0,-18000.0,Rugi
+Bajaj Pulsar 150,25000.0,2010,Individual,2nd owner,26000.0,75000.0,15,Lama,25000.0,0.0,Netral
+Suzuki Access 125,25000.0,2010,Individual,1st owner,1900.0,58000.0,15,Lama,25000.0,0.0,Netral
+TVS Wego,25000.0,2012,Individual,1st owner,22000.0,52000.0,13,Lama,30000.0,-5000.0,Rugi
+Honda CB twister,25000.0,2015,Individual,1st owner,32000.0,51000.0,10,Lama,45000.0,-20000.0,Rugi
+Hero Glamour,25000.0,2015,Individual,1st owner,18000.0,57000.0,10,Lama,45000.0,-20000.0,Rugi
+Hero Super Splendor,20000.0,2007,Individual,1st owner,55000.0,57000.0,18,Lama,20000.0,0.0,Netral
+Bajaj Pulsar 150,20000.0,2010,Individual,1st owner,60000.0,75000.0,15,Lama,25000.0,-5000.0,Rugi
+Bajaj Discover 125,20000.0,2014,Individual,2nd owner,25000.0,57000.0,11,Lama,35000.0,-15000.0,Rugi
+Hero Hunk,20000.0,2009,Individual,2nd owner,49000.0,75000.0,16,Lama,20000.0,0.0,Netral
+Hero  Ignitor Disc,20000.0,2015,Individual,2nd owner,24000.0,65000.0,10,Lama,30000.0,-10000.0,Rugi
+Hero  CBZ Xtreme,20000.0,2010,Individual,1st owner,50000.0,78700.0,15,Lama,25000.0,-5000.0,Rugi
+Bajaj  ct 100,18000.0,2017,Individual,1st owner,35000.0,32000.0,8,Baru,55000.0,-37000.0,Rugi
+Activa 3g,17000.0,2010,Individual,1st owner,500000.0,52000.0,15,Lama,25000.0,-8000.0,Rugi
+Honda CB twister,16000.0,2012,Individual,1st owner,33000.0,51000.0,13,Lama,30000.0,-14000.0,Rugi
+Bajaj Discover 125,15000.0,2013,Individual,2nd owner,35000.0,57000.0,12,Lama,25000.0,-10000.0,Rugi
+Honda CB Shine,12000.0,2009,Individual,1st owner,53000.0,58000.0,16,Lama,23000.0,-11000.0,Rugi
+Bajaj Pulsar 150,10000.0,2008,Individual,1st owner,92233.0,75000.0,17,Lama,25000.0,-15000.0,Rugi
